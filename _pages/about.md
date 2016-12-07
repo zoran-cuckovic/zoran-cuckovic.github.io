@@ -1,0 +1,47 @@
+---
+layout: page
+title: "Aux quatre vents"
+permalink : /about/
+image:
+---
+The main topic of these pages is archaeology of (past) landscapes and other personal scientific or "scientifically related" work. The site has an ISSN code and is regularly archived, which means you can safely quote.
+
+![Photo](/images/selfie.jpg)
+
+Author: I'm is currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
+
+### Impressum
+
+
+Publication title: Aux quatre vents <br>
+International Standard Serial Number (ISSN): 2459-5837 <br>
+Publisher and editor:
+<p style="padding-left: 30px;">
+  Zoran Čučković<br>
+  Mrežnička 4<br>  
+  47000 Karlovac <br> 
+  Croatia</p>
+ <br>
+Publishing frequency: monthly, since April 2016.<br>
+Website is archived by the [National and University Library in Zagreb](http://haw.nsk.hr/publikacija/6196/aux-quatre-vents).
+
+Licence : **CC BY 4.0**--in case of sharing, adapting or otherwise referring to content published on these pages, you must give appropriate credit (reference), provide a link to the license, and indicate if changes were made. This licence is **<span style="text-decoration: underline;">not applied to software</span>** or any other work discussed in these pages.
+
+
+
+
+### Send me a message:
+
+
+<form action="https://formspree.io/cuckovic.zoran@gmail.com"
+      method="POST">
+	 Your name
+    <input type="text" name="name">
+	Your email
+    <input type="email" name="_replyto">
+	
+	Message
+	<textarea rows="10" name="body"></textarea>
+	
+    <input type="submit" value="Send">
+</form> 

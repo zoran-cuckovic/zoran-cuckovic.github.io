@@ -1,0 +1,16 @@
+
+<div class = "sidebar">
+
+<h3>Topics</h3>
+
+{%comment %} TAG AGGEGATE PAGES MUST HAVE THE SAME URL AS THEIR ID 
+{%endcomment %}
+
+
+{% for tag in site.tags %}
+	{% assign t = tag[0] %}
+	<p><a href={{site.url}}/{{t}}> {{site.data.tags[t].name}}</a></li>
+{%endfor %}
+
+
+</div>

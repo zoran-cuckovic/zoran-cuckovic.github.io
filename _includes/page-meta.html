@@ -1,0 +1,13 @@
+{% if page.date %}<div class="page-meta">
+	<p>{{ site.data.messages.locales[site.locale].published }} {{ page.date | date: "%B %d, %Y" }}
+	
+	{%comment%} FORMATTING TIME
+	<time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>
+	{%endcomment%}
+	
+	{% if page.modified %}{{ site.data.messages.locales[site.locale].updated }} {{ page.modified | date: "%B %d, %Y" }}
+	{% endif %}
+	</p>
+	
+	 
+</div><!-- /.page-meta -->{% endif %}

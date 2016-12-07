@@ -1,0 +1,22 @@
+/*  DIY Z   
+has to be imported in the main css !
+size not specified : fills the space left in the homepage */
+
+.sidebar {
+  // @include outer-container;
+  margin-bottom: $gutter;
+  
+	    
+  position: block; /* relative works also */
+  
+  	/* margin-top: $gutter;
+	margin-left: -$gutter;
+	margin-right: -$gutter;
+	padding: 10px 0 20px;
+				background: lighten($border-color,5); NO MARGINS
+				border: 20px red;  NOT WORKING
+	*/
+
+  @include font-size( 24);
+ 
+	}

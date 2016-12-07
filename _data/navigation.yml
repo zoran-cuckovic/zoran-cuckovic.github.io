@@ -1,0 +1,35 @@
+# Site navigation links
+# uses external links (native?)
+
+#formatting lists not fixed: 
+#leave a space before first title 
+
+- title: "QGIS Landscape analysis"
+  url: /QGIS-landscape/
+  excerpt:
+  image:
+  children:
+    - ch_title: "&nbsp;  QGIS Visibility analysis"
+      ch_url: /QGIS-visibility/ 
+    - ch_title: "&nbsp; QGIS Topographic networks"
+      ch_url: /QGIS-topography/
+  
+- title: "Publications"
+  url: /publications/
+  excerpt:
+  image:
+
+# - title: "Lef/Right"
+  # url:
+  # children:
+    # - ch_title: "&nbsp; Left"
+      # ch_url: /left/ 
+    # - ch_title: "Right"
+      # ch_url: /right/
+ 
+- title: "About"
+  url: /about/
+  excerpt:
+  image:
+
+  

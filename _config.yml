@@ -1,0 +1,71 @@
+﻿# Site wide configuration
+
+title: "Aux quatre vents"
+description: "Personal web pages of Zoran Čučković."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
+
+# Jekyll configuration 
+
+sass:
+  sass_dir: _sass
+  style: compressed
+ 
+#originally =   permalink: /:categories/:title/
+permalink: /:title/
+
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: Zoran Čučković
+  email: cuckovic.zoran@gmail.com
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio: some bio in _config.yml
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+#include for jekyll to see (added DOCUMENTS)
+include:
+  - .htaccess
+  - _pages
+  - documents 
+exclude:
+  - documents
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
+google_analytics: UA-000000

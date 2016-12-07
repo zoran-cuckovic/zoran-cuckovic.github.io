@@ -1,0 +1,5 @@
+#ADDED TO FOOTER
+
+#{% for link in site.data.footer %}
+
+#      {% if link.url contains 'http' %}

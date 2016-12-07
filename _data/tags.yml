@@ -1,0 +1,22 @@
+#URLs have to be identical to tag codes (not names)!
+
+landscape:
+  name: Landscape archaeology
+  
+memory: 
+  name: Social memory
+  
+QGIS:
+  name: "QGIS stuff"
+  text:
+  
+QGIS-visibility:
+  name: "QGIS visibility analysis plugin"
+  text:
+
+QGIS-topography:  
+  name: "QGIS topograhic networks plugin"
+  text:
+
+GIS:
+  name: GIS

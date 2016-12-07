@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+
+
+
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		
+	<script>var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = '';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if ('https:' === document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();</script> 
+		
+		<a href="http://www.printfriendly.com" style="color:#6D9F00;text-decoration:none;" class="printfriendly" onclick="window.print();return false;" title="Printer Friendly and PDF"><img style="border:none;-webkit-box-shadow:none;box-shadow:none;margin:0 6px"  src="http://cdn.printfriendly.com/pf-print-icon.gif" width="16" height="15" alt="Print Friendly Version of this page" />Print <img style="border:none;-webkit-box-shadow:none;box-shadow:none;margin:0 6px"  src="http://cdn.printfriendly.com/pf-pdf-icon.gif" width="12" height="12" alt="Get a PDF version of this webpage" />PDF</a>
+		
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		{%comment%} NOT USED {% include breadcrumbs.html %} {%endcomment%}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+		</div> <!-- ADDED SUBTITLES --->
+		<div class="page-subtitle">
+			<h2>{{ page.subtitle }}</h2>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+				{{ content }}
+				<hr />
+				<footer class="page-footer">
+					{% include page-author.html %}
+					{% include page-meta.html %}
+					{% if page.share != false %}{% include share-this.html %}{% endif %}
+				</footer><!-- /.footer -->
+				<aside>
+					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+		
+		
+				
+	</article><!-- ./wrap -->
+</div><!-- /#main -->

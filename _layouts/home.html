@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div id="main" role="main">			
+	<div class="wrap">
+		{% if page.image.feature %}
+			<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+		{%else%}
+		<!-- added , we can also : style="background-color:  -->
+			<div class="page-lead">
+		{% endif %}
+      <div class="wrap page-lead-content">
+	
+	<!--	<img class= logo src= "{{ site.url }}/images/logo.png" >  -->
+	
+        <h1>Aux quatre vents</h1>
+				<hr >	
+        <h2>Landscapes and archaeology, mostly...</h2>
+		
+        
+      </div><!-- /.page-lead-content -->
+      </div><!-- /.page-lead -->
+		
+	
+		
+		<div class="tiles">
+		{% for post in site.posts %}
+			{% include post-grid.html %} 
+		{% endfor %}
+        </div><!-- /.tiles -->
+		
+		<div class="sidebar" > {% include tags-widget.html %} </div>
+
+	</div><!-- /.wrap -->
+	
+</div><!-- /#main -->
+
+		
+
+<!---  CHANGED
+    header    
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+<!---			</div><!-- /.page-feature -->
+<!---		
+		buttons: 
+		
+		<a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>
+		
+		---!>
