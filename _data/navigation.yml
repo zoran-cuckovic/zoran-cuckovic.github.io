@@ -10,9 +10,9 @@
   image:
   children:
     - ch_title: "&nbsp;  QGIS Visibility analysis"
-      ch_url: /QGIS-visibility/ 
+      ch_url: /visibility/ 
     - ch_title: "&nbsp; QGIS Topographic networks"
-      ch_url: /QGIS-topography/
+      ch_url: /topographic_networks/
   
 - title: "Publications"
   url: /publications/

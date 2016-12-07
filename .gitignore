@@ -3,7 +3,6 @@ _site
 images/_site
 .sass-cache
 .vagrant
-documents_BCKP
 
 # general
 .DS_Store
