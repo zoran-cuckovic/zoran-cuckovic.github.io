@@ -4,7 +4,7 @@ title: Visibility analysis for QGIS
 date: 2016-04-17 12:11
 author: zoran
 comments: true
-permalink: /visibility/
+permalink:landscape-analysis/visibility/
 categories: 
 filter_tag: QGIS-visibility 
 ---
