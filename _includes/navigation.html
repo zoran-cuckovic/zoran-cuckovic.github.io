@@ -1,18 +1,24 @@
 <ul class="menu-item">
 	
-	{%comment%} Why is this added here ??
-	<li class="home"><a href="/">{{ site.title }}</a></li>
+	{%comment%} 
+		* Why is this added here ? Title is displayed by MASTHEAD...
+		<li class="home"><a href="/">{{ site.title }}</a></li>
+		* styles are for a href ==> omit href for non-link  
 	{%endcomment%}
 	
 	{% for n in site.data.navigation %}
-		<li>  <span>  <a href="{{ n.url }}">{{ n.title }}</a> </span>
+		
 		{% if n.children != null %}
+			<li>  <span>  <a >{{ n.title }}</a> </span>
 			<ul class="sub-menu-item">
+			
 			{% for c in n.children %}
 				<li><a href=" {{ c.ch_url }}">{{ c.ch_title }}</a></li>
 			{% endfor %}
 			</ul>
-		</li>
+		
+		{%else%}
+		<li>  <span>  <a href="{{ n.url }}">{{ n.title }}</a> </span>
 		{% endif %}
 	{% endfor %}
 	

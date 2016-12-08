@@ -7,8 +7,11 @@
    ========================================================================== */
 
 #masthead {
-	padding: $gutter;
-	z-index: 5; //original 5
+
+	background-color : $yellow;
+
+	padding:  20px;  // $gutter; 
+	z-index: 5; 
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -17,23 +20,39 @@
 	.inner-wrap {
 		@include outer-container;
 	}
+	
+	border-bottom: 4px $black solid;
 }
 .site-title {
 	@include row;
 	@include media($large) {
-		@include span-columns(4);
+		@include span-columns(3);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	
 	height: $masthead-height;
+	
+	text-align: center;
 	text-decoration: none;
-	color: $black;
+	color:  $black;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 }
+.logo-quarter{
 
+	//	position: absolute;
+	
+	
+	margin-top: -19px;
+	margin-bottom : -20px;
+	padding : 0;
+	float : left;
+	
+	}
+	
 
 /*
    Menus
@@ -47,16 +66,20 @@
 				//margin-right: 0; // remove spacing from last menu link
 				margin-left: 20; //NOT WORKING
 			}
+			
+			
+
 		}
 		a {
 			// line hover effect
-			
+						
 			position: relative;
 			display: block;
 			margin-right: $gutter;
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
+			
 			&:before,
 			&:after {
 				content: '';
@@ -91,8 +114,9 @@
 	@include media($medium) {
 		@include span-columns(12);
 	}
+	
 	@include media($large) {
-		@include span-columns(7);
+		@include span-columns(8);
 		ul {
 			position: absolute;
 			right: 0;
@@ -275,6 +299,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
+	z-index : 10;
 	
 
 	
@@ -285,6 +310,7 @@
 }
 .page-lead-content {
 	padding: 1em;
+	
 	@include media($medium) {
 		padding: 2em;
 	}
@@ -292,6 +318,7 @@
 		padding: 3em;
 	}
 	h1 {
+		
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
@@ -329,6 +356,7 @@
 	}
 // NOT USED !!
 	.logo{
+	
 	position: absolute;
 	border-radius: 50%;
 	width: 200px;

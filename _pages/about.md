@@ -8,7 +8,7 @@ The main topic of these pages is archaeology of (past) landscapes and other pers
 
 ![Photo](/images/selfie.jpg)
 
-Author: I'm is currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
+Author: I'm currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
 
 ### Impressum
 

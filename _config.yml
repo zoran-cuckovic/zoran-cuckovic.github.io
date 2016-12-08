@@ -16,7 +16,12 @@ sass:
   style: compressed
  
 #originally =   permalink: /:categories/:title/
-permalink: /:title/
+permalink: /:year/:title/
+
+#collections: NOT WORKING : TODO COLLECTIONS
+  #: _documents
+   # permalink: /documents/:path/
+   
 
 kramdown:
   toc_levels: 1..2
@@ -41,13 +46,14 @@ owner:
 
 #include for jekyll to see (added DOCUMENTS)
 include:
-  - .htaccess
-  - _pages
-  - documents 
+  - .htaccess  # ?? 
+  - _pages #!!! 
+  - documents
 exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - ".bat"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache

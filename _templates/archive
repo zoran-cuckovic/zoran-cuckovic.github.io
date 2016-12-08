@@ -7,5 +7,7 @@ excerpt:
 image:
   feature:
   teaser:
-  thumb:
+  thumb: 
+filter_tag:
+permalink: /tags/ ________/
 ---

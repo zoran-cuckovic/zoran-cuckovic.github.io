@@ -9,7 +9,7 @@
 
 {% for tag in site.tags %}
 	{% assign t = tag[0] %}
-	<p><a href={{site.url}}/{{t}}> {{site.data.tags[t].name}}</a></li>
+	<p><a href={{site.url}}/tags/{{t}}> {{site.data.tags[t].name}}</a></li>
 {%endfor %}
 
 

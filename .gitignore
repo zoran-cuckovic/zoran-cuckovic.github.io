@@ -3,6 +3,7 @@ _site
 images/_site
 .sass-cache
 .vagrant
+*.bat
 
 # general
 .DS_Store

@@ -5,14 +5,14 @@
 #leave a space before first title 
 
 - title: "QGIS Landscape analysis"
-  url: /QGIS-landscape/
+  url: 
   excerpt:
   image:
   children:
     - ch_title: "&nbsp;  QGIS Visibility analysis"
       ch_url: /visibility/ 
     - ch_title: "&nbsp; QGIS Topographic networks"
-      ch_url: /topographic_networks/
+      ch_url: /topographic-networks/
   
 - title: "Publications"
   url: /publications/

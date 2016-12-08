@@ -7,7 +7,7 @@ comments: true
 categories: 
 tags:
 filter_tag: QGIS-topography
-permalink: /QGIS-topography/
+permalink: /topographic-networks/
 ---
 
 Geographic information systems that have become ubiquitous today are not only a tool to do the job (calculating whatever may be of interest), they are also a concept. And the concept goes back to the early days when the idea was to overlay datasets such as scanned maps or satellite images. This approach gave us an unprecedented flexibility for analysing individual locations - for each point in the landscape we can calculate local slope, aspect, elevation, solar exposition and what not. However, the landscape (especially the landscape as humans perceive it) is composed of objects, rather than disconnected points. We cannot perceive with precision neither the elevation nor the solar exposition, but we can understand whether there is a hill or a mound beneath our feet. We can also manage to find "the ridge just across the valley" even without any quantitative information (distance, bearing etc). It is important, I think, to work on such human, alternative concepts of representing terrain in GIS, even if its infrastructure is rigged for flat matrices (rasters).

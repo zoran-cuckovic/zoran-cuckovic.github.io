@@ -32,13 +32,23 @@ $caption-color                : mix($white, $text-color, 25%);
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #074566; //#222; ORIGINALLY
+$link-color                  	:  #640000;   //#074566; BLUE //#222; ORIGINALLY
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
 $info-color                  	: #3498db;
+
+/*  ============ add-on ========================*/
+$light-red : #db572f;
+$marron: #722d19;
+$marron-dark: #210d10;
+$sand: #eadaa6;
+$yellow: #fbca3c;
+$grey: #f7f5e7;
+
+
 
 $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;

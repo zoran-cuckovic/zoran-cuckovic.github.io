@@ -1,4 +1,5 @@
-#URLs have to be identical to tag codes (not names)!
+# URLs have to be identical to tag codes (not names)!
+# tags are prefixed with /tag/ ! [www.../tags/tag_page]
 
 landscape:
   name: Landscape archaeology
