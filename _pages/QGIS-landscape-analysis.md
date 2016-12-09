@@ -7,6 +7,6 @@ comments: true
 permalink: /landscape/
 ---
  
-[Visibility analysis for QGIS](/visibility/)
+[Visibility analysis for QGIS](/landscape-analysis/visibility/)
 
-[Topographic networks for QGIS](/topography/)
+[Topographic networks for QGIS](/landscape-analsis/topography/)
