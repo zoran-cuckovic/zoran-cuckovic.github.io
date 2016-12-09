@@ -7,4 +7,4 @@ permalink: tags/QGIS-visibility/
 filter_tag: QGIS-visibility 
 ---
 
-See also [QGIS viewsehd analysis page](/visibility/) for more details.
+See also [QGIS viewsehd analysis page](/landscape-analysis/visibility/) for more details.
