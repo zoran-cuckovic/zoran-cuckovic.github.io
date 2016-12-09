@@ -9,5 +9,5 @@ filter_tag: QGIS-topography
 
 ---
 
-See [topographic networks plugin](/topographic-networks) for more info.  
+See [topographic networks plugin](/landscape-analysis/topographic-networks) for more info.  
 
