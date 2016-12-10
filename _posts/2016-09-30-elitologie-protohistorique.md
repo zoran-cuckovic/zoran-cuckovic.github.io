@@ -7,6 +7,8 @@ author: zoran
 comments: true
 categories: right
 tags: []
+image:
+  teaser: /images/2016/09/Bee_hive.jpg
 ---
 
 
