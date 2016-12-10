@@ -1,4 +1,4 @@
-﻿# Site wide configuration
+# Site wide configuration
 
 title: "Aux quatre vents"
 description: "Personal web pages of Zoran Čučković."
@@ -74,3 +74,29 @@ exclude:
   - spec
   - tmp
 google_analytics: UA-000000
+
+
+prose:
+  rooturl: '_posts'
+#  siteurl: 'http://nyc.hshackers.org/'
+  media: '/images'/:year/:month/ 
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      meetups:
+        - name: "meetup"
+          field:
+            element: "hidden"
+            value: "meetup"
+        - name: "categories"
+          field: 
+            element: "hidden"
+            value: "meetup"
+        - name: "permalink"
+          field:
+            element: "text"
+    
+            label: "Background (CSS)"
