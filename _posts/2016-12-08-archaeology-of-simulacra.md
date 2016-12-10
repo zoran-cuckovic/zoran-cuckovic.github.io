@@ -7,7 +7,7 @@ excerpt: "Several weeks ago I stumbled upon an amusing article on a museum displ
 tags: [landscape]
 image:
   feature:
-  teaser: images/2016/12/Chichibu-museum-2.jpg
+  teaser: /images/2016/12/Chichibu-museum-2.jpg
   thumb:
 ---
 
