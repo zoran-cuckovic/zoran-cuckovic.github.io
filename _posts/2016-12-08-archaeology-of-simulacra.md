@@ -93,12 +93,13 @@ The metaphor of curator is a crucial one for landscape archaeology because socie
 [https://youtu.be/gNcYKl718us](https://youtu.be/gNcYKl718us)
 
 ## Bibliography:
-Berque (A.) 1995. Les raisons du paysage.
 
 Bednarik (R. G.) 1998. The ‘austrolopithecine’ cobble from Makapansgat, South Africa. South 
 African Archaeological Bulletin 53: 4–8.
 
 -	For other works by Bednarik see: https://ifrao.academia.edu/RobertBednarik
+
+Berque (A.) 1995. Les raisons du paysage.
 
 Descola (Ph.) 2005. Par-delà nature et culture [translated as Beyond Nature and Culture, 2013]. 
 
