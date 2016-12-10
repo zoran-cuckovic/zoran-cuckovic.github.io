@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Pebbles, faces and landscapes: the archaeology of simulacra"
-modified:
-categories: 
-excerpt: "Several weeks ago I stumbled upon an amusing article on a museum displaying pebbles and rocks resembling human faces, situated in Chichibu, Japan. The stones are called jinmenseki (珍石) and one should be able to recognise human faces in their naturally occurring dents and holes. "
-tags: [landscape]
+title: 'Pebbles, faces and landscapes: the archaeology of simulacra'
+modified: null
+categories: null
+excerpt: >-
+  Several weeks ago I stumbled upon an amusing article on a museum displaying
+  pebbles and rocks resembling human faces, situated in Chichibu, Japan. The
+  stones are called jinmenseki (珍石) and one should be able to recognise human
+  faces in their naturally occurring dents and holes. 
+tags:
+  - landscape
 image:
-  feature:
+  feature: null
   teaser: /images/2016/12/Chichibu-museum-2.jpg
-  thumb:
+  thumb: null
+published: true
 ---
 
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)
@@ -87,7 +93,7 @@ The metaphor of curator is a crucial one for landscape archaeology because socie
 [https://youtu.be/gNcYKl718us](https://youtu.be/gNcYKl718us)
 
 ## Bibliography:
-Berque (A.) 1995. Les raisons de paysage.
+Berque (A.) 1995. Les raisons du paysage.
 
 Bednarik (R. G.) 1998. The ‘austrolopithecine’ cobble from Makapansgat, South Africa. South 
 African Archaeological Bulletin 53: 4–8.
@@ -99,4 +105,3 @@ Descola (Ph.) 2005. Par-delà nature et culture [translated as Beyond Nature and
 Foucault (M.) 1966. Les mots et les choses [translated as The Order of Things: An Archaeology of the Human Sciences, 1970].
 
 Senda (M.) 1992. Japan's Traditional View of Nature and Interpretation of Landscape, GeoJournal, Vol. 26, No. 2, History of Geographical Thought (February 1992), pp. 129-134.
-
