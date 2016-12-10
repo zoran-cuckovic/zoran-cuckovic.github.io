@@ -79,7 +79,7 @@ google_analytics: UA-000000
 prose:
   rooturl: '_posts'
 #  siteurl: 'http://nyc.hshackers.org/'
-  media: '/images'/:year/:month/ 
+  media: '/images'
   ignore:
     - _config.yml
     - /_layouts
