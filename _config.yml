@@ -73,7 +73,7 @@ exclude:
   - package.json
   - spec
   - tmp
-google_analytics: UA-000000
+google_analytics: UA-76855620-1
 
 
 prose:
