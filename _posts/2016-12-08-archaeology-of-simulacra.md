@@ -1,3 +1,21 @@
+---
+layout: post
+title: 'Pebbles, faces and landscapes: the archaeology of simulacra'
+modified: null
+categories: null
+excerpt: >-
+  Several weeks ago I stumbled upon an amusing article on a museum displaying
+  pebbles and rocks resembling human faces, situated in Chichibu, Japan. The
+  stones are called jinmenseki (珍石) and one should be able to recognise human
+  faces in their naturally occurring dents and holes. 
+tags:
+  - landscape
+image:
+  feature: null
+  teaser: /images/2016/12/Chichibu-museum-2.jpg
+  thumb: null
+published: true
+---
 
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)
 *Chichibu museum (photo: www.thisiscolossal)*
