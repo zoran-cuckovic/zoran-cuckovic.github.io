@@ -8,7 +8,8 @@
 
 #masthead {
 
-	background-color : $yellow;
+	background-color : $marron;
+	
 
 	padding:  20px;  // $gutter; 
 	z-index: 5; 
@@ -34,7 +35,7 @@
 	
 	text-align: center;
 	text-decoration: none;
-	color:  $black;
+	color:  $white;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -46,8 +47,8 @@
 	//	position: absolute;
 	
 	
-	margin-top: -19px;
-	margin-bottom : -20px;
+	//margin-top: -19px;
+	//margin-bottom : -20px;
 	padding : 0;
 	float : left;
 	
@@ -128,7 +129,7 @@
 	// > ul displays sub list, does not work with sub-menu-item!
 	:hover > ul {
 				display:block;
-				background: $white;
+				background: $marron;
 				} 
 
 	li {
@@ -136,8 +137,8 @@
 			
 			font-weight: 700;
 			@include font-size(16,no);
+			color: $white;
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
 			text-transform: uppercase;
 			
 			&:hover {} //For testing ...
@@ -341,14 +342,14 @@
 	hr{
 //$caption-color ; 
 // Why is this working ?? a random number, otherwise it's grey ....
-	 color: #123;
+	 color: $black;
 		max-width: 100px;
 		margin: 15px auto;
 		position: relative;
 		padding: 0;
-       width: 100%;
+      
        clear: both;
-       border: none;
+        
        border-top: 6px solid ;
        border-bottom: 1px solid ;
 	   border-radius: 3px;

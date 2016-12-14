@@ -7,7 +7,7 @@ size not specified : fills the space left in the homepage */
   margin-bottom: $gutter;
   
 	    
-  position: block; /* relative works also */
+  position: relative; /* relative works also */
   
   	/* margin-top: $gutter;
 	margin-left: -$gutter;
@@ -18,5 +18,14 @@ size not specified : fills the space left in the homepage */
 	*/
 
   @include font-size( 24);
+  
+  form {
+   margin : 0;
+	 
+	display: inline-block; // important to wrap
+	
+	
+  
+		}
  
 	}

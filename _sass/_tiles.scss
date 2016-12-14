@@ -11,7 +11,7 @@
   /*---------- No 8 controls the number of columns  ----- */
   @include media(new-breakpoint(min-width em(480) 8)) {
     @include span-columns(3);
-  //  @include omega(4n); WORKS BETTER WITHOUT ??
+    @include omega(4n); //WORKS BETTER WITHOUT ??
 	text-align: left
   }
   .entry-date {

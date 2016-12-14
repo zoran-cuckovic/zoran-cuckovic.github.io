@@ -23,7 +23,7 @@ layout: default
       </div><!-- /.page-lead -->
 		
 	
-		
+		 
 		<div class="tiles">
 		{% for post in site.posts %}
 			{% include post-grid.html %} 
@@ -31,6 +31,28 @@ layout: default
         </div><!-- /.tiles -->
 		
 		<div class="sidebar" > {% include tags-widget.html %} </div>
+		
+		<div class="sidebar" > 
+			<h2>Subscribe</h2>
+			<p>RSS feed: 
+			<a href="{{ site.url }}/atom.xml">
+				<img src = "{{ site.url }}/images/rss-icon.png" alt=" *RSS* ">
+			</a>
+			</p>
+			<p>By email:
+			
+			<form action="https://formspree.io/cuckovic.zoran@gmail.com"
+				method="POST">
+	 
+				<input type="email" name="_subscribe">
+			
+			
+				<input type="submit" value="Send">
+			</form> 
+			
+			</p>
+			
+		</div>
 
 	</div><!-- /.wrap -->
 	

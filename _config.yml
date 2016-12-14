@@ -36,7 +36,7 @@ gems:
 owner:
   name: Zoran Čučković
   email: cuckovic.zoran@gmail.com
-  twitter:
+  twitter: ZCuckovic
   google:
     ad-client:
     ad-slot:
@@ -75,6 +75,9 @@ exclude:
   - tmp
 google_analytics: UA-76855620-1
 
+collections:
+  - _documents
+# this is not actually used (TODO)
 
 prose:
   rooturl: '_posts'

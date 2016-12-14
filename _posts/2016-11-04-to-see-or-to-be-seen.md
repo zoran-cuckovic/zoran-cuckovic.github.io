@@ -2,6 +2,7 @@
 layout: post
 title: To see or to be seen:<br>concepts, analysis and modelling of viewsheds in archaeology
 subtitle: 
+excerpt: Séminaire Thématique organisé par Laure NUNINGER, CR CNRS et Zoran CUCKOVIC, Doctorant à l’Université de Bourgogne Franche-Comté au laboratoire de Chrono-Environnement, en collaboration  avec la plateforme GeoBFC (MSHE C.N. Ledoux) et le réseau ISA (Information Spatiale et Archéologie)
 date: 2016-11-04
 author: zoran
 comments: true
