@@ -42,7 +42,7 @@ owner:
     ad-slot:
   bio: some bio in _config.yml
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname: # addad directy to comments.html
 
 #include for jekyll to see (added DOCUMENTS)
 include:
@@ -81,7 +81,7 @@ collections:
 
 prose:
   rooturl: '_posts'
-#  siteurl: 'http://nyc.hshackers.org/'
+
   media: 'images'
   ignore:
     - _config.yml

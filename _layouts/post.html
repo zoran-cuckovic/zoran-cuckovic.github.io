@@ -48,10 +48,14 @@ layout: default
 				<footer class="page-footer">
 					{% include page-author.html %}
 					{% include page-meta.html %}
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					{% if page.share != false %}
+					  {% include share-this.html %}
+					{% endif %}
 				</footer><!-- /.footer -->
 				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
+					{% if page.comments == true %}
+					  {% include comments.html %}
+					 {% endif %}
 				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->

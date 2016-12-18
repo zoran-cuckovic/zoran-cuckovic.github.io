@@ -4,6 +4,7 @@ title: Historicity and chronological puritanism
 subtitle: Are we ever going to acknowledge the historical dimension of human landscapes?
 date: 2016-06-08
 author: zoran
+comments: true
 categories: right
 tags: [landscape, memory]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "QGIS viewshed plugin - a tutorial"
 date: 2016-07-27 19:50
 author: zoran
+comments: true
 categories: left
 tags: [QGIS-visibility, GIS]
 ---
