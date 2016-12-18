@@ -4,33 +4,44 @@ layout: default
 
 <div id="main" role="main">			
 	<div class="wrap">
+	
+	<!-- added , we can also : style="background-color: 
+		<div class="page-lead">
 		{% if page.image.feature %}
 			<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
 		{%else%}
-		<!-- added , we can also : style="background-color:  -->
-			<div class="page-lead">
+		
 		{% endif %}
-      <div class="wrap page-lead-content">
+		
+		
+		
+		 
+		
+		<!-- <img class= logo src= "{{ site.url }}/images/logo.png" > -->   
 	
-		<!-- <img class= logo src= "{{ site.url }}/images/logo.png" > -->     
+	  <div class="page-lead"><!-- can be expanded to include image etc ... -->
+      <div class="wrap page-lead-content">
 	
         <h1>Aux quatre vents</h1>
 				<hr >	
         <h2>Landscapes and archaeology, mostly...</h2>
-		
         
       </div><!-- /.page-lead-content -->
       </div><!-- /.page-lead -->
 		
 	
-		 
+		<div class = "archive-wrap">
 		<div class="tiles">
 		{% for post in site.posts %}
 			{% include post-grid.html %} 
 		{% endfor %}
         </div><!-- /.tiles -->
+		</div> <!-- archive-wrap -->
 		
-		<div class="sidebar" > {% include tags-widget.html %} </div>
+		
+		<div class="sidebar" > {% include tags-widget.html %} 
+		</div>
+		
 		
 		<div class="sidebar" > 
 			<h2>Subscribe</h2>
@@ -53,6 +64,7 @@ layout: default
 			</p>
 			
 		</div>
+		
 
 	</div><!-- /.wrap -->
 	

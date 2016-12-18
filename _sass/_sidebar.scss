@@ -7,7 +7,7 @@ size not specified : fills the space left in the homepage */
   margin-bottom: $gutter;
   
 	    
-  position: relative; /* relative works also */
+  position: block; /* must be block, otherwise : conflicts */
   
   	/* margin-top: $gutter;
 	margin-left: -$gutter;

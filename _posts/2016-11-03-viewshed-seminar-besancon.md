@@ -1,13 +1,19 @@
 ---
 layout: post
-title: To see or to be seen:<br>concepts, analysis and modelling of viewsheds in archaeology
-subtitle: 
+title: "To see or to be seen  <br> concepts, analysis and modelling of viewsheds in archaeology"
+
+permalink: /2016/to-see-or-to-be-seen/
+
 excerpt: Séminaire Thématique organisé par Laure NUNINGER, CR CNRS et Zoran CUCKOVIC, Doctorant à l’Université de Bourgogne Franche-Comté au laboratoire de Chrono-Environnement, en collaboration  avec la plateforme GeoBFC (MSHE C.N. Ledoux) et le réseau ISA (Information Spatiale et Archéologie)
+
 date: 2016-11-04
 author: zoran
 comments: true
 categories: right
-tags: []
+tags: [GIS]
+
+image:
+  teaser: /images/2016/11/seminairesCE.jpg
 ---
 
 <div class="container1">
@@ -17,6 +23,8 @@ tags: []
 <img class=" wp-image-507 alignnone" style="float: left;" src="/images/2016/11/seminairesCE.jpg" alt="seminaires CE" width="277" height="61" />
 <div class="container2"><img class="alignnone" src="http://www.msh-reseau.fr/sites/default/files/styles/logomsh/public/msh/mshe_logo_transp_0.jpg?itok=lIbhpRtI" alt="MSHE-logo" width="128" height="128" /></div>
 </div>
+
+
 <strong>Vendredi 18 novembre 2016</strong>
 
 De 10h à 13h et de 14h à 17h <strong>-107M salle de conférence de l'UMR Chrono-environnement, UFR ST, la Bouloie, 16 route de Gray, 25030 Besançon</strong>
@@ -51,3 +59,4 @@ Concepts, analysis and modelling of viewsheds in archaeology</strong></h3>
 <strong>15h45 – </strong><strong>Bronze Age funerary landscapes in Istria and in Yonne-Seine confluence: how far can visibility analysis take us?</strong><strong> - </strong>Zoran  Čučković
 
 <strong>16h30  - </strong><strong>conclusion – final discussion</strong>
+

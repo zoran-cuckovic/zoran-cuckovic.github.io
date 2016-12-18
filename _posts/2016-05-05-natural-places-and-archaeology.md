@@ -5,11 +5,13 @@ date: 2016-05-05 10:16
 author: zoran
 comments: true
 categories: [memory, landscape]
+image:
+  teaser: /images/2016/05/Kyaiktiyo-Pagoda.jpg
 ---
 
 First time I heard of something like "natural places" was some ten years ago at a conference in Slovenia. Several, mostly young researchers were proud to demonstrate an existence of non-man-made features on their sites, features that apparently gained a symbolic value before or during human habitation. For instance, trees that were incorporated in Neolithic ritual arrangements (henge monuments, if I recall correctly) or rock outcrops that seemed to have attracted special attention in the past. At first sight, such a concept does not seem particularly groundbreaking: we have always known that natural features inspired a wide range of symbolically charged responses in ancient societies, such as mountaintop sanctuaries (e.g. on Crete), depositions of artefacts in springs and rivers (e.g. the source of the Seine), or sacred forests that are well known from literary sources. I got intrigued, nevertheless, by an opportunity to introduce the concept of nature in archaeology, a concept which is, at the same time, our enemy.
 
-![Kyaiktiyo Pagoda](images/2016/05/Kyaiktiyo-Pagoda.jpg)
+![Kyaiktiyo Pagoda](/images/2016/05/Kyaiktiyo-Pagoda.jpg)
 
 Such a thing as "natural place" (the opposite of which would be an "unnatural" one [?]) is indeed somewhat clumsy and would not make much sense for geographers. All places are natural if they exist in the material world, although to a varying degree. Perhaps Piazza Navona, with its fountains and all, is less "natural" than a vineyard in Tuscany, but both of these places exist in particular topographic settings and both are related to particular visions of nature. So it may turn that the concept of a place being more or less natural is primarily reflecting a specific view of nature held by scientists, namely the occidental one, the critique of which has become a common place. But this would be to miss the whole point.
 

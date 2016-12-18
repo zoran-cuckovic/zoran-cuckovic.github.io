@@ -9,6 +9,8 @@ categories: right
 tags: []
 image:
   teaser: /images/2016/09/Bee_hive.jpg
+  
+excerpt: La mesure du pouvoir dans la société présente une problème assez difficile en sociologie (Haralambos et Heald 1989, Ch. 3). L'enterrement est surtout un indicateur trop manipulé pour être utilisée comme seule base d'analyse. Le rituel funéraire pose un problème important, par exemple, dans la comparaison du cercle hallstattien avec des sociétés méditerranéennes pour qui une absence de forte ostentation ne marque pas une structure sociale moins complexe (Dietler 1995, 71)...
 ---
 
 
