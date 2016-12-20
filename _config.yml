@@ -73,7 +73,6 @@ exclude:
   - package.json
   - spec
   - tmp
-google_analytics: UA-76855620-1
 
 collections:
   - _documents
