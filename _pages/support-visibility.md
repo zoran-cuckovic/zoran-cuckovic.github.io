@@ -23,7 +23,7 @@ Visibility analaysis plugin is free -- but there is a lot of work investend into
 
 **Goal for the next major version: integration into processing toolbox**
 
-Many QGIS users have experessed a wish to integrate visibilty analysis in custom scripts. That would be, indeed, a very useful thing. For instance, one would be able to combine viewshed with morphometry and other terrain analyses, or to do some complex statistics in a batch. However, this would imply a major overhaul of the code -- your help will speed up the work. 
+Many QGIS users have experessed a wish to integrate visibilty analysis in custom scripts. That would be, indeed, a very useful thing. For instance, one would be able to combine viewshed with morphometry and other terrain analyses, or do some complex statistics in a batch. However, this would imply a major overhaul of the code -- your help will speed up the work. 
  
  Thanks, <br>
  Zoran
