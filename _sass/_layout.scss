@@ -190,13 +190,14 @@
 	}
 	.page-title {
 		@include fill-parent;
-		//@include span-columns(8) // ADDED so that the title does not spill out...
+		@include span-columns(9);// ADDED so that the title does not spill out...
+		text-align: center;
 	}
 	// ------  ADDED SUBTITLES (move them up) --------
 	.page-subtitle {
 		@include fill-parent;
 		//@include span-columns(8); // ADDED so that the title does not spill out...
-		bottom : 24px;
+		bottom : 34px;
 	}
 	
 	@at-root {
