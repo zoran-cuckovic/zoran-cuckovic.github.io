@@ -3,7 +3,7 @@ layout: post
 title: 'Visibility analysis, release 0.5.4: <br>modelling the horizon'
 subtitle: 
 date: 2016-12-22
-modified: 
+modified: 2017-01-02
 author: zoran
 comments: true
 categories: left
