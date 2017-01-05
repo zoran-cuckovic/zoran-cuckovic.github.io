@@ -4,7 +4,11 @@ title: "Aux quatre vents"
 permalink : /about/
 image:
 ---
-The main topic of these pages is archaeology of (past) landscapes and other personal scientific or "scientifically related" work. The site has an ISSN code and is regularly archived, which means you can safely quote.
+
+The main topic of these pages is archaeology of (past) landscapes; an exploration of the historical dimension of spaces we inhabit.   
+
+*Aux quatre vents* is intended to be a personal publishing platform, rather than just a blog. The idea is to communicate bits and pieces of current academic work, in particular those that are less likely to grow into full fledged scientitfic articles (or is that laziness..?). It has an ISSN code and is regularly archived, which means you can safely quote.
+
 
 ![Photo](/images/selfie.jpg)
 
@@ -12,9 +16,8 @@ Author: I'm currently a PhD candidate in archaeology at the University of Bourgo
 
 ### Impressum
 
-
 Publication title: Aux quatre vents <br>
-International Standard Serial Number (ISSN): 2459-5837 <br>
+ISSN code: 2459-5837 <br>
 Publisher and editor:
 <p style="padding-left: 30px;">
   Zoran Čučković<br>
@@ -23,7 +26,7 @@ Publisher and editor:
   Croatia</p>
  <br>
 Publishing frequency: monthly, since April 2016.<br>
-Website is archived by the [National and University Library in Zagreb](http://haw.nsk.hr/publikacija/6196/aux-quatre-vents).
+Website is archived on [GitHub](https://github.com/zoran-cuckovic/zoran-cuckovic.github.io/tree/master/_posts) and by the [National and University Library in Zagreb](http://haw.nsk.hr/publikacija/6196/aux-quatre-vents).
 
 Licence : **CC BY 4.0**--in case of sharing, adapting or otherwise referring to content published on these pages, you must give appropriate credit (reference), provide a link to the license, and indicate if changes were made. This licence is **<span style="text-decoration: underline;">not applied to software</span>** or any other work discussed in these pages.
 

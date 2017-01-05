@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Historicity and chronological puritanism
-subtitle: Are we ever going to acknowledge the historical dimension of human landscapes?
+title: Historicity and chronological puritanism: <br> are we ever going to acknowledge the historical dimension of human landscapes?
 date: 2016-06-08
 modified: 2016-18-12
 author: zoran
