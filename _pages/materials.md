@@ -4,7 +4,7 @@ title: Stuff...
 date: 2016-12-18 20:57
 author: zoran
 comments: true
-permalink: /materials_2/
+permalink: /materials/
 ---
 
 ## Some possibly useful stuff ...
