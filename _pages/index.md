@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Latest Posts"
+title: "Zoran Čučković"
 image:
     feature: 
 UNUSED: IGN-Courlon_crop.jpg
