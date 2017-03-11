@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Topographic networks - a plugin for QGIS"
 date: 2016-04-17 12:24
 author: zoran
@@ -21,12 +21,6 @@ This is a very basic approach and still in "experimental phase" - I will update 
 version 0.1.1 DOI: ![zenodo badge](https://zenodo.org/badge/22929/zoran-cuckovic/QGIS-topographic-networks.svg)
 
 
-<div class="tiles">
-{% for post in site.posts %}
- {% if post.tags contains page.filter_tag %}
-  {% include post-grid.html %}
-  {% endif %}
-{% endfor %}
-</div><!-- /.tiles -->
+
 
 

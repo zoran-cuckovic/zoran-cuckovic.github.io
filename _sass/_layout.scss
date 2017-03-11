@@ -254,7 +254,7 @@
 			.page-content {
 				@include reset-all;
 				@include fill-parent;
-				//@include span-columns(9); //DODANO
+				@include span-columns(9); 
 				
 			}
 			

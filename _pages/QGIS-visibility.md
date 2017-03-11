@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Visibility analysis for QGIS
 date: 2016-04-17 12:11
 author: zoran
@@ -20,11 +20,3 @@ NB. Manual for new, experimental, version (0.5) can be found <a href="http://zor
 You can signal an issue at <strong><a href="https://hub.qgis.org/projects/viewshed/issues">Issues on hub.qgis.org </a></strong>or leave a contact here (in About page).
 
 Source code at:<strong> <a href="https://github.com/zoran-cuckovic/QGIS-visibility-analysis">Github</a></strong>
-
-<div class="tiles">
-{% for post in site.posts %}
- {% if post.tags contains page.filter_tag %}
-  {% include post-grid.html %}
-  {% endif %}
-{% endfor %}
-</div><!-- /.tiles -->

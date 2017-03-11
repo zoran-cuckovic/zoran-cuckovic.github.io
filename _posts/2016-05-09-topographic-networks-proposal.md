@@ -7,6 +7,7 @@ comments: true
 categories: left
 tags: [QGIS-topography, GIS, landscape]
 ---
+
 (abstract of a conference paper presented at TheoQant conference held in Besançon, 20 - 22 may 2015 [<a href="http://thema.univ-fcomte.fr/theoq/pdf/resumes/TQ2015%20RESUMES.pdf" target="_blank">abstract book here</a>])
 
 The Earth’s surface or terrain is most commonly represented in Geographic Information Systems as a gridded matrix, the raster. Somewhat less often, so called triangulated irregular networks (TIN) are used as well. These two data structures are ideal for efficient local calculations (e.g. slope, aspect etc.) but they are less appropriate for the simplification of the overall structure of the terrain and the extraction of units which are closer to human understanding (e.g. a hill, a crest, recessed valley etc.). In the proposed communication a representation of terrain in hierarchical trees, i.e. as a special case of directed graph, will be discussed. This data structure lends itself naturally to graph-analytical approach which is particularly effective for analysis of structural relationships in complex surfaces and, eventually, the development of terrain ontologies.

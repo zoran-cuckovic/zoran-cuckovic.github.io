@@ -1,23 +1,27 @@
-# URLs have to be identical to tag codes (not names)!
-# tags are prefixed with /tag/ ! [www.../tags/tag_page]
+# url has to begin with / !!
 
 landscape:
   name: Landscape archaeology
+  url: /tags/landscape/
   
 memory: 
   name: Social memory
+  url: /tags/memory
   
 QGIS:
   name: "QGIS stuff"
   text:
+  url: /tags/qgis
   
 QGIS-visibility:
   name: "QGIS visibility analysis plugin"
   text:
+  url: /landscape-analysis/visibility/
 
 QGIS-topography:  
   name: "QGIS topograhic networks plugin"
-  text:
+  url: /landscape-analysis/topographic-networks/
 
 GIS:
   name: GIS
+  url: /tags/gis
