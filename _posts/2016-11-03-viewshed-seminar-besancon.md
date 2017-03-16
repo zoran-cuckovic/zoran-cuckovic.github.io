@@ -10,7 +10,7 @@ date: 2016-11-04
 author: zoran
 comments: true
 categories: right
-tags: [GIS]
+tags: [gis]
 
 image:
   teaser: /images/2016/11/seminairesCE.jpg

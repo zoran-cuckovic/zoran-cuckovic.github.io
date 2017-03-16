@@ -4,7 +4,7 @@ title: Polar (azimuth) diagram in QGIS
 date: 2016-05-18 19:13
 author: zoran
 categories: left
-tags: [GIS, QGIS]
+tags: [gis, qgis]
 ---
 
 Orientation of geographic features can be an important piece of information, for instance when studying ancient field systems or analysing geological formations. The problem comes when we try to summarise such data graphically . Standard histograms are not ideal because they cut through the continuous distribution - one cannot easily understand the relationship between the beginning and the end of the diagram (which should stick together). Polar diagram is what we need, but it cannot be made without some fiddling around.

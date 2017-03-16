@@ -7,7 +7,7 @@ modified: 2017-01-02
 author: zoran
 comments: true
 categories: left
-tags: [QGIS-visibility, QGIS, GIS]
+tags: [qgis-visibility, qgis, gis]
 image:
  teaser: /images/2016/12/Cumulative-horizon.jpg
  feature: 

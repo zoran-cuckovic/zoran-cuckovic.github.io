@@ -5,7 +5,7 @@ date: 2016-07-27 19:50
 author: zoran
 comments: true
 categories: left
-tags: [QGIS-visibility, GIS]
+tags: [qgis-visibility, gis]
 image:
   teaser: /images/2016/07/cumulative_raster.jpg
 ---

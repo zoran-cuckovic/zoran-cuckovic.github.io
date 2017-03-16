@@ -6,7 +6,7 @@ modified: 2016-07-30
 author: zoran
 comments: true
 categories: left
-tags: [QGIS, QGIS-visibility]
+tags: [qgis, qgis-visibility]
 ---
 <strong>Current plugin version: 0.5</strong>
 

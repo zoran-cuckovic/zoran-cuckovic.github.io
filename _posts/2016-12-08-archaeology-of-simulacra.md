@@ -9,13 +9,11 @@ excerpt:
   pebbles and rocks resembling human faces, situated in Chichibu, Japan. The
   stones are called jinmenseki (珍石) and one should be able to recognise human
   faces in their naturally occurring dents and holes. 
-tags:
-  - landscape
+tags: [landscape, memory]
 image:
   feature: null
   teaser: /images/2016/12/Chichibu-museum-2.jpg
   thumb: null
-published: true
 ---
 
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)

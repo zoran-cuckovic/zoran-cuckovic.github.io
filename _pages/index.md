@@ -7,7 +7,7 @@ image:
 UNUSED: IGN-Courlon_crop.jpg
 ---
 
-This page has no use! (Home page = list of posts)
+This is used only for page title! (Home page = list of posts)
 
 Before the title was displayed in home layout
 

@@ -4,7 +4,7 @@ title: Natural places and archaeology
 date: 2016-05-05 10:16
 author: zoran
 comments: true
-categories: [memory, landscape]
+tags: [memory, landscape]
 image:
   teaser: /images/2016/05/Kyaiktiyo-Pagoda.jpg
 ---

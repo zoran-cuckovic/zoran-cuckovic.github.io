@@ -1,4 +1,5 @@
-# url has to begin -- and end -- with / !!
+# url has to begin with / !!
+# keep all small case !!
 
 landscape:
   name: Landscape archaeology
@@ -8,20 +9,20 @@ memory:
   name: Social memory
   url: /tags/memory/
   
-QGIS:
+qgis:
   name: "QGIS stuff"
   text:
   url: /tags/qgis/
   
-QGIS-visibility:
+qgis-visibility:
   name: "QGIS visibility analysis plugin"
   text:
   url: /landscape-analysis/visibility/
 
-QGIS-topography:  
+qgis-topography:  
   name: "QGIS topograhic networks plugin"
   url: /landscape-analysis/topographic-networks/
 
-GIS:
+gis:
   name: GIS
   url: /tags/gis/

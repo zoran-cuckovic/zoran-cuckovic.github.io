@@ -5,7 +5,7 @@ date: 2016-05-09
 author: zoran
 comments: true
 categories: left
-tags: [QGIS-topography, GIS, landscape]
+tags: [qgis-topography, gis, landscape]
 ---
 
 (abstract of a conference paper presented at TheoQant conference held in Besançon, 20 - 22 may 2015 [<a href="http://thema.univ-fcomte.fr/theoq/pdf/resumes/TQ2015%20RESUMES.pdf" target="_blank">abstract book here</a>])

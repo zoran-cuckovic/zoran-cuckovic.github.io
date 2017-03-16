@@ -21,7 +21,7 @@ permalink: /:year/:title/
 #collections: NOT WORKING : TODO COLLECTIONS
   #: _documents
    # permalink: /documents/:path/
-   
+
 
 kramdown:
   toc_levels: 1..2

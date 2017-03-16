@@ -5,7 +5,7 @@ date: 2016-04-17 17:53
 author: zoran
 comments: true
 categories: left
-tags: [QGIS, GIS]
+tags: [qgis, gis]
 ---
 
 Making some order in feature labels on a map is, quite often, a pain. When there is no room for full labels or when there is such a large number of features that a reader cannot find his/her way through a forest of information - it is always handy to replace textual labels with a sequence of numbers. The pain comes when these numbers should be ordered, normally from north to south and west to east, which cannot be done with a single mouse-click in QGIS.
