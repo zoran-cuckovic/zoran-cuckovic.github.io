@@ -26,7 +26,7 @@ Publisher and editor:
   Croatia</p>
  <br>
 Publishing frequency: monthly, since April 2016.<br>
-Website is archived on [GitHub](https://github.com/zoran-cuckovic/zoran-cuckovic.github.io/tree/master/_posts) and by the [National and University Library in Zagreb](http://haw.nsk.hr/publikacija/6196/aux-quatre-vents).
+Website is archived on [GitHub](https://github.com/zoran-cuckovic/zoran-cuckovic.github.io/tree/master/_posts) and by the [National and University Library in Zagreb](http://haw.nsk.hr/en/publikacija/6196/aux-quatre-vents).
 
 Licence : **CC BY 4.0**--in case of sharing, adapting or otherwise referring to content published on these pages, you must give appropriate credit (reference), provide a link to the license, and indicate if changes were made. This licence is **<span style="text-decoration: underline;">not applied to software</span>** or any other work discussed in these pages.
 
