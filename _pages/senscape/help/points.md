@@ -1,9 +1,10 @@
 ---
 layout: help
 title: Stuff...
-date: 2017-05-16
+date: {}
 author: zoran
 permalink: /senscape/help/points/
+published: true
 ---
 
 
@@ -11,13 +12,13 @@ permalink: /senscape/help/points/
 ## Create observer points
 
 
-This is the first step for the visibility analysis. The result will be written as a shapefile with standardised field names, with a record for each point. Values can be changed manually, but the field names need to remain as assigned.  
+This is the first step for the visibility analysis. The result will be written as a shapefile with standardised field name. Values can be changed manually, but the field names need to remain as assigned.  
 
 ## Input
 
-**Observer points** have to be stored in a shapefile or other recognised vector formats. Lines or polygons cannot be used (unless broken up in points).
+- *Observer points* have to be stored in a shapefile or other recognised vector formats. Lines or polygons cannot be used (unless broken up in points). Multi-point shapefiles will not work, neither.
 
-
+-obser
 A basic requirement in viewshed modelling is setting up height values for both the observer and the target. For instance we might be interested whether a building 20 metres tall (target height) would be visible by an average pedestrian with eye-level at 1.6 metres (observer height).
 
 
