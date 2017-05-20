@@ -13,7 +13,8 @@ Viewshed maps are made over an elevation model, from viewpoints created by the "
 
 ## Parameters
 
-
 - viewpoints: point type vector layer
 
-The coordinate reference systems of the elevation raster and the observer/target point(s) must match. There is no 'on the fly reprojection' or whatever: the best practice is to turn off automatic reprojection to test whether things overlap as they should.
+- elevation model: raster data
+
+The coordinate reference systems of the elevation raster and the observer point(s) must match. There is no 'on the fly reprojection' or whatever: the best practice is to turn off automatic reprojection to test whether things overlap as they should.
