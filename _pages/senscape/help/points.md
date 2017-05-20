@@ -33,6 +33,6 @@ Observer/target height and radius of analisis can be read from shapefile's data 
 
 - *Output directory*: Unless combined output is chosen in algorithm options for raster output, a viewshed raster will be produced for each point. Files will be named using the specified ID column ( or an internal ID) and placed in the chosen directory. Take care that these values be unique.
 
-##Output
+## Output
 
 View-points will be saved as a point shapefile with chosen parameters in the accompanying table. The points can, then, be used with any elevation model **provided their coordinate systems match**.
