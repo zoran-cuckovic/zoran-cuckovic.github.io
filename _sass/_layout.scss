@@ -296,7 +296,31 @@
 		}
 
 	}
+	
+/* help (added)
+================================================= */
+.help {
 
+		position: relative;
+		text-align: center;
+		margin-top: $gutter;
+		margin-left: -$gutter;
+		margin-right: -$gutter;
+		padding: 10px 0 20px;
+		
+		h1 {@include font-size(20, no)}
+		h2 {@include font-size(18, no)}		
+		p {@include font-size(16, no);
+			text-align: left}
+				
+		@include media($medium) {
+			@include span-columns(5);
+			margin-left: 0;
+			margin-right: 0;
+			
+		}
+		
+	}
 
 // page lead
 .page-lead {
@@ -305,8 +329,6 @@
 	background-attachment: fixed;
 	text-align: center;
 	z-index : 10;
-	
-
 	
 
 	@include media($large) {

@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Stuff...
+title: 
 date: {}
 author: zoran
 permalink: /senscape/help/points/
