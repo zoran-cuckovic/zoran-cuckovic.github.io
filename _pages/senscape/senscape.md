@@ -15,7 +15,6 @@ Senscape is a QGIS plugin for modelling human landscape experience. It is based 
 Current version (0.1) is experimental and not yet fully tested.
 
 ## Installation
+
 1. Search for "Senscape" in QGIS plugin manager (make sure experimental plugins are allowed)
 2. In processing menu, under options, allow Senscape provider
-
-
