@@ -41,7 +41,7 @@ Then we slide-in the "Create points" routine and use created parameters (raster 
 
 ![model - step 2](/images/2017/05/Clipboard02.jpg)
 
-Finally, we stream the result to the viewshed algorithm (take care to choose sum as the output method!).
+Finally, we stream the result to the viewshed algorithm (if observer points are multiple take care to choose sum as the output method!)
 
 ![model - step 3](/images/2017/05/Clipboard03.jpg)
 
