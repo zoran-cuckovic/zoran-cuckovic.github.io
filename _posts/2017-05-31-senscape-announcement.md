@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "Meet  Senscape, a toolbox for analysis of human landscape experience"
-date: 2017-05-31 
+title: 'Meet  Senscape, a toolbox for analysis of human landscape experience'
+date: 2017-05-31T00:00:00.000Z
 author: zoran
 comments: true
 categories: left
-tags: [qgis-visibility, gis]
+tags:
+  - qgis-visibility
+  - gis
 image:
   teaser: /images/2016/07/cumulative_raster.jpg
+published: true
 ---
   
-Viewshed analysis plugin for QGIS has been evolving (slowly) and eventually acquired a new habitat: the Processing toolbox. It can now be used in custom models and scripts similar to other Processing providers (such as SAGA  or GRASS). The transformation was not a simple one and the whole thing is in the experimental phase, as of writing. The title [Senscape](/senscape/) may seem too broad - what about senses other than vision? Well, these analyses are in their embryonic stage, but they should find their place somewhere, once hatched. (I would be more than glad to collaborate with people developing algos for sound modelling, just leave me a message on the About page.)
+Viewshed analysis plugin for QGIS has been evolving (slowly) and eventually acquired a new habitat: the Processing toolbox. It can now be used in custom models and scripts similar to other Processing providers (such as SAGA  or GRASS). The transformation was not a simple one and the whole thing is in the experimental phase, as of writing. The title [Senscape](/senscape/) may seem too broad - what about senses other than vision? Well, these modules are in their embryonic stage, but they should find their place somewhere, once hatched. (I would be more than glad to collaborate with people developing algos for sound modelling, just leave me a message on the About page.)
 
 ## What's new?
 
@@ -50,6 +53,3 @@ And here it is, a super-simple (and customised) viewshed routine to be consumed 
 Datasets used can be downloaded from the [Viewshed plugin repo](https://github.com/zoran-cuckovic/QGIS-visibility-analysis/tree/test-data).
 
 Installation steps and other details: see [Senscape web page](/senscape/)
-
-
-
