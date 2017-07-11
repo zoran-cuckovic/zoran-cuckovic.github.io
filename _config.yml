@@ -44,7 +44,7 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: # addad directy to comments.html
 
-#include for jekyll to see (added DOCUMENTS)
+#include for jekyll to see (added DOCUMENTS, excluded publications)
 include:
   - .htaccess  # ?? 
   - _pages #!!! 
@@ -73,10 +73,11 @@ exclude:
   - package.json
   - spec
   - tmp
+  - _publications
 
 collections:
-  - _documents
-# this is not actually used (TODO)
+  - publications
+# this is not actually used (EXCLUDED)
 
 prose:
   rooturl: '_posts'

@@ -4,7 +4,9 @@
 #formatting lists not fixed: 
 #leave a space before first title 
 
-- title: "QGIS Landscape analysis"
+
+  
+- title: "Landscape analysis"
   url: 
   excerpt:
   image:
@@ -14,10 +16,6 @@
     - ch_title: "&nbsp; QGIS Topographic networks"
       ch_url: /landscape-analysis/topographic-networks/
   
-- title: "Publications"
-  url: /publications/
-  excerpt:
-  image:
 
 # - title: "Lef/Right"
   # url:
@@ -25,7 +23,16 @@
     # - ch_title: "&nbsp; Left"
       # ch_url: /left/ 
     # - ch_title: "Right"
-      # ch_url: /right/
+      # ch_url: /right/  
+- title: "Publications"
+  url: /publications/
+  excerpt:
+  image:
+  
+- title: "Stuff"
+  url: /materials/
+  excerpt:
+  image:	  
  
 - title: "About"
   url: /about/
