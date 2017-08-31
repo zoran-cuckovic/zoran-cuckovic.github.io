@@ -31,7 +31,7 @@ Le script apparaitra sous la rubrique « Raster » de la boite d’outils « Pro
 
 La deuxième étape passe par un outil d’interpolation des valeurs dans les zones éliminées. Le ```r.surf.contour``` de GRASS est fait pour ce type de calcul (l’interpolation du MNT à partir des courbes de niveau en format raster) : il donne un très bon résultat.
 
-La dernière touche, un lissage qui éliminera quelques effets sautillants résiduels peut être faite par un bon nombre d’outils. Le ``` Simple filter ``` de SAGA a été utilisé ici pour obtenir une belle surface lisse. 
+La dernière touche, un lissage qui éliminera quelques effets sautillants résiduels, peut être faite par un bon nombre d’outils. Le ``` Simple filter ``` de SAGA a été utilisé ici pour obtenir une belle surface lisse. 
 
 ![MNT](/images/2017/09/IGN_rsurf.png)
 
