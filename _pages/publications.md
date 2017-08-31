@@ -33,5 +33,4 @@ permalink: /publications/
 
 Other publications on academia.edu: <a href="http://univ-fcomte.academia.edu/Zoran%C4%8Cu%C4%8Dkovi%C4%87" target="_blank">http://univ-fcomte.academia.edu/ZoranČučković</a>
 
-&nbsp;
-[*](/documents/)
+
