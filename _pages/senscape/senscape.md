@@ -19,3 +19,5 @@ Current version (0.1) is experimental and not yet fully tested.
 1. Search for "Senscape" in QGIS plugin manager (make sure experimental plugins are allowed)
 
 2. In Processing menu, under Options, allow Senscape provider
+
+**GitHub repository: [here](https://github.com/zoran-cuckovic/senscape)**
