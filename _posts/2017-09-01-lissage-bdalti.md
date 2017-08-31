@@ -12,7 +12,7 @@ published: true
 ---
 
 
-Le problème n’est pas nouveau, mais on ne trouve toujours pas de solutions simples pour le « maquillage » du modèle numérique de terrain (MNT) très couramment utilisé en France, le [BD ALTI]( http://professionnels.ign.fr/bdalti) de résolution de 25 mètres. Celui-ci est disponible en valeurs entiers, ce que lui donne un aspect de marches (hautes d’un mètre) : très moche et surtout contraignant pour un bon nombre d’analyses. Par exemple, l’analyse de visibilité donne un résultat peu utilisable, comme ci-dessus. 
+Le problème n’est pas nouveau, mais on ne trouve toujours pas de solutions simples pour le « maquillage » du modèle numérique de terrain (MNT) très couramment utilisé en France, le [BD ALTI]( http://professionnels.ign.fr/bdalti) de résolution de 25 mètres. Celui-ci est disponible en valeurs entières, ce que lui donne un aspect en marches d'escalier (hautes d’un mètre) : très moche et surtout contraignant pour un bon nombre d’analyses. Par exemple, l’analyse de visibilité donne un résultat peu utilisable, comme ci-dessous. 
 
 ![MNT](/images/2017/09/IGN_25.png)
 *Le MNT dans son état cru*
