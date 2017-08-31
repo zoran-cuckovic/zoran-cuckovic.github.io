@@ -8,6 +8,8 @@ permalink: /publications/
 ---
 <h2>Journal &amp; conference papers</h2> 
 
+Čučković, Z. (2017). Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia). World Archaeology (in print) . [doi: 10.1080/00438243.2017.1341331](http://dx.doi.org/10.1080/00438243.2017.1341331)
+
 Čučković, Z. (2016). Advanced viewshed analysis: a Quantum GIS plug-in for the analysis of visual landscapes. The Journal of Open Source Software 4(1). [doi: 10.21105/joss.00032](http://joss.theoj.org/papers/10.21105/joss.00032)
 
 Čučković, Z. (2015). <span style="text-decoration: underline;">Exploring intervisibility networks : a case study from Bronze and Iron Age Istria (Croatia and Slovenia)</span>. In <span class="a">F. Giligny, F. Djindjian, L. Costa, P. Moscati </span><span class="a">and S. Robert (eds.) <em>CAA2014 - </em></span><em><span class="a">21st century </span><span class="a"> Archeao<span class="l">l<span class="l6">ogy: </span></span></span><span class="a">concepts, methods and tools.</span> Proceedings of the 42nd Annual Conference on Computer  Applications and Quantitative Methods in Archaeology . </em>Paris, April 2014, 469 - 478. <span class="a">[<a href="/documents/Cuckovic-Exploring_intervisibility_networks.pdf">download</a>]</span>
