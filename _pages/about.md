@@ -23,7 +23,9 @@ Publisher and editor:
   Zoran Čučković<br>
   Mrežnička 4<br>  
   47000 Karlovac <br> 
-  Croatia</p>
+  Croatia  
+  contact: mail@zoran-cuckovic.from.hr
+  </p>
  <br>
 Publishing frequency: monthly, since April 2016.<br>
 Website is archived on [GitHub](https://github.com/zoran-cuckovic/zoran-cuckovic.github.io/tree/master/_posts) and by the [National and University Library in Zagreb](http://haw.nsk.hr/en/publikacija/6196/aux-quatre-vents).

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'SIG collaboratif,<br>solution simple et gratuite</br>'
-date: 2017-07-27
+date: 2017-10-10
 author: zoran
 comments: true
 categories: left
 tags:
   - gis
  
-published: False
 ---
   
 Travailler, ce n'est peut-être pas toujours la chose la plus passionnante, mais c'est quand même plus amusant (et plus efficace) en collaboration. Il y a, dans le monde du SIG, bien de solutions pour le travail collaboratif sur un même jeu de données, mais le plus souvent elles sont couteuses ou exigeantes au niveau technique. Cependant, il existe un moyen quelque peu obscur, caché dans le benthos de l’internet, qui permet d’utiliser l’architecture collaborative – gratuitement. Le hébergeur [Alwaysdata]( www.alwaysdata.com) (la compagnie est française malgré le nom) offre dans son paquet découverte l’hébergement des bases de données PostGIS, très performantes et largement utilisées dans le monde SIG.
@@ -46,8 +45,8 @@ Et voilà, une solution « pro » ! PostGIS est capable de gèrer *des centaines
  
 ## Bémol (il y en toujours un…)
 
-La solution décrite ici utilise un paquet promotionnel : aucune obligation particulière n'est pas impliquée de part de l’hébergeur (si j’ai bien compris). En effet, votre compte, *avec tous vos données* sera d’abord suspendu dans le cas d’une période d’inactivité supérieure à deux mois, pour se faire carrément *effacer* suite à 30 jours supplémentaires (au mois c’est mon expérience). Il s’agit, en fin de compte, d’un paquet gratuit, promotionnel, avec des fonctionnalités assez avancées (notamment au niveau d’instalation de PostGIS) : on ne devrait pas critiquer, c’est déjà pas mal ! Investissez quelques sous dans le cas d’un travail plus sérieux… (Je n’ai aucun lien avec la compagnie.) 
+La solution décrite ici utilise un paquet promotionnel : aucune obligation particulière n'est pas impliquée de part de l’hébergeur (si j’ai bien compris). En effet, votre compte, *avec tous vos données* sera d’abord suspendu dans le cas d’une période d’inactivité supérieure à deux mois, pour se faire carrément *effacer* suite à 30 jours supplémentaires (au moins c’est mon expérience). Il s’agit, en fin de compte, d’un paquet gratuit, promotionnel, avec des fonctionnalités assez avancées (notamment au niveau d’instalation de PostGIS) : on ne devrait pas critiquer, c’est déjà pas mal ! Investissez quelques sous pour un travail plus sérieux… (Je n’ai aucun lien avec la compagnie.) 
 
 La taille de l’hébergement entier est limité à 100 mb : cela devrait souffrir pour une utilisation plutôt légère, mais probablement pas pour des projets d’envergure.
 
-Enfin, restent tous les problèmes d’organisation d’une base collective. Par exemple, qu’est-ce qu’il se passe dans le cas de modification par plusieurs utilisateurs en même temps ? Sans un paramétrage supplémentaire, c’est le plus rapide qui gagne. Mais, c’est le problème pour une autre occasion… [(voir ici, par exemple)](http://workshops.boundlessgeo.com/postgis-intro/history_tracking.html)
+Enfin, restent tous les problèmes d’organisation d’une base collective. Par exemple, qu’est-ce qu’il se passe quand plusieurs utilisateurs tentent de modifier les données en même temps ? Sans un paramétrage supplémentaire, c’est le plus rapide qui gagne. Mais, c’est le problème pour une autre occasion… [(voir ici, par exemple)](http://workshops.boundlessgeo.com/postgis-intro/history_tracking.html)
