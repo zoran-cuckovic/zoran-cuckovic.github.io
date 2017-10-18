@@ -14,6 +14,8 @@ The main topic of these pages is archaeology of (past) landscapes; an exploratio
 
 Author: I'm currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
 
+<a href="https://orcid.org/0000-0001-7626-4086" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7626-4086</a>
+
 ### Impressum
 
 Publication title: Aux quatre vents <br>
