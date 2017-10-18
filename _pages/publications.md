@@ -31,6 +31,6 @@ permalink: /publications/
 
 &nbsp;
 
-Other publications on academia.edu: <a href="http://univ-fcomte.academia.edu/Zoran%C4%8Cu%C4%8Dkovi%C4%87" target="_blank">http://univ-fcomte.academia.edu/ZoranČučković</a> and [ORCID](orcid.org/0000-0001-7626-4086).
+Other publications on [academia.edu](http://univ-fcomte.academia.edu/Zoran%C4%8Cu%C4%8Dkovi%C4%87) and [ORCID](orcid.org/0000-0001-7626-4086).
 
 
