@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Publications
 date: 2016-05-08 20:57
