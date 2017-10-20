@@ -3,7 +3,7 @@ layout: page
 title: Scanned stuff
 date: 2016-12-18
 author: zoran
-permalink: /materials/
+permalink: /scans/
 ---
 
 ## Scanned books and articles
