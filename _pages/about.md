@@ -9,7 +9,6 @@ The main topic of these pages is archaeology of (past) landscapes; an exploratio
 
 *Aux quatre vents* is intended to be a personal publishing platform, rather than just a blog. The idea is to communicate bits and pieces of current academic work, in particular those that are less likely to grow into full fledged scientitfic articles (or is that laziness..?). It has an ISSN code and is regularly archived, which means you can safely quote.
 
-
 ![Photo](/images/selfie.jpg)
 
 Author: I'm currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
