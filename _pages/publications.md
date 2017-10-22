@@ -42,7 +42,7 @@ Bronze Age funerary landscapes in Istria (Croatia) and in Yonne-Seine confluence
 
 Conceptualising movement: modelling topographic feature networks. Seminar "Detection and Modelling of Ancient Pathways", VU University Amsterdam, June 27th 2016.
 
-Les anciens - la réutilisation des vestiges préhistoriques au Bronze Final/début Fer entre l’Yonne et la Seine. "Rencontres doctorales archéologiques de l’EEPB Bibracte", Centre archéologique européen du Mont Beuvray, 27 avril 2016
+Les anciens - la réutilisation des vestiges préhistoriques au Bronze Final/début Fer entre l’Yonne et la Seine. "Rencontres doctorales archéologiques de l’EEPB Bibracte", Centre archéologique européen du Mont Beuvray, 27 avril 2016.
 
 Le passé - une ressource naturelle ou une construction sociale? La réutilisation des vestiges préhistoriques au Bronze Final entre l’Yonne et la Seine. Séminaire inter-universitaire (Besançon, Dijon, Fribourg, Neuchâtel, Strasbourg) 2016 "Ressources naturelles et matières premières", 18 Mars 2016.
 
@@ -54,7 +54,7 @@ Le paysage culturel et la mémoire collective dans les sociétés de l'âge du B
 
 Topographic networks and path modelling perspectives: towards an ontology of movement ? Colloque Théo Quant, Besançon, 22 mai 2015.
  
-Topophilia : L’émergence des sanctuaires protohistoriques (Les Balkans N-O, 10e – 5e s. av. n. è.). "Rencontres doctorales archéologiques de l’EEPB Bibracte", Centre archéologique européen du Mont Beuvray, 30 Avril 2015.
+Topophilia : L’émergence des sanctuaires protohistoriques (Les Balkans N-O, 10e – 5e s. av. n. è.). "Rencontres doctorales archéologiques de l’EEPB Bibracte", Centre archéologique européen du Mont Beuvray, 30 avril 2015.
 [[slides](/2016/bibracte-topophilia/)]
 
 Fortifying seascapes: Bronze Age fortified sites of the north-eastern Adriatic Sea. Conference “Socio-Environmental Dynamics over the Last 12,000 Years: The Creation of Landscapes IV”, Kiel University, March 26th 2015. 
@@ -62,7 +62,7 @@ Fortifying seascapes: Bronze Age fortified sites of the north-eastern Adriatic S
 
 2014
 
-The emergence of castellieri (hillforts) in Istria (Croatia) [poster]. Colloque "Le Bronze moyen et l’origine du Bronze final en Europe occidentale", Strasbourg 17-20 juin 2014. 
+The emergence of castellieri (hillforts) in Istria (Croatia) [poster]. Colloque "Le Bronze moyen et l’origine du Bronze final en Europe occidentale", Strasbourg, 17-20 juin 2014. 
 
 Exploring Intervisibility Networks: A Case Study From Bronze and Iron Age Istria (Croatia and Slovenia), Conference "Computer applications in arcaheology 2014 - 21st Century Archaeology", Paris, 24 avril 2014.
 
@@ -70,13 +70,13 @@ De l’analyse de visibilité à la culture visuelle : l’apport des SIG à l�
 
 2013
 
-The emergence of hillforts as indicator of cultural change: several examples from the end of the Bronze Age from the Kupa Valley near Karlovac. Conference "Late Urnfield Culture between the Eastern Alps and the Danube", November 8th 2013.
+The emergence of hillforts as indicator of cultural change: several examples from the end of the Bronze Age from the Kupa Valley near Karlovac. Conference "Late Urnfield Culture between the Eastern Alps and the Danube", Institute of archaeology, Zagreb, November 8th 2013.
 
 Le paysage culturel de l'Istrie à l'Âge du Bronze (Croatie) : des prospections aux analyses spatiales. Journée d’études "Les recherches archéologiques recentes en Croatie", Université de Franche-Comté, Besançon, 19 octobre 2013.
 
 2012
 
-Sipar kod Umaga. Strukturni pregled kasnoantičke obalne utvrde. [poster and short presentation]. Conference "Hrvatska arheologija i Aachenski mir 812. – 2012.", Zadar 29. 11. – 1. 12. 2012.
+Sipar kod Umaga. Strukturni pregled kasnoantičke obalne utvrde. [poster and short presentation]. Conference "Hrvatska arheologija i Aachenski mir 812. – 2012.", Zadar (Croatie) 29. 11. – 1. 12. 2012.
 
 
 
