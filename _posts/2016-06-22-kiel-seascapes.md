@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Fortifying seascapes" 
-subtitle: "Bronze Age fortified sites of the north-eastern Adriatic Sea"
+title: "Fortifying seascapes: <br> Bronze Age fortified sites of the north-eastern Adriatic Sea"
 date: 2016-06-22 12:08
 author: zoran
 categories: right
