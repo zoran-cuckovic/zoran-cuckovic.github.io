@@ -8,9 +8,7 @@ categories: left
 tags:
   - qgis
   - gis
-published: true
-
-draft: true
+published: false
 ---
 
 
