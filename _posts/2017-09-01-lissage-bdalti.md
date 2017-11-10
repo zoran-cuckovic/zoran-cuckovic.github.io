@@ -9,6 +9,8 @@ tags:
   - qgis
   - gis
 published: true
+
+draft: true
 ---
 
 
