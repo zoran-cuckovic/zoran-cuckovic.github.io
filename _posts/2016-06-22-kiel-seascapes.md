@@ -7,6 +7,7 @@ categories: right
 tags: [landscape]
 image:
   teaser: /images/2016/06/Seascapes-9.jpg
+published: false
 ---
 (<span style="text-decoration: underline;">Presented at "Socio-Environmental Dynamics over the Last 12,000 Years: The Creation of Landscapes IV" conference held at Kiel University, March 24 - 27, 2015</span>)
 

@@ -11,6 +11,7 @@ tags: [qgis-visibility, qgis, gis]
 image:
  teaser: /images/2016/12/Cumulative-horizon.jpg
  feature: 
+published: false
 ---
 
 Visibility analysis plugin for QGIS is prospering quite well. As of writing, it counts some 20 000 downloads and a bunch of « votes », which means that at least several thousand people are using it. (Although, it does feel uncomfortable knowing that any potential error would risk a blame-storm ….)

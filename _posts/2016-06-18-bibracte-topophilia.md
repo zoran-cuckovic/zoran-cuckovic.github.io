@@ -5,6 +5,7 @@ date: 2016-06-18 11:53
 author: zoran
 categories: right
 tags: [memory]
+published: false
 ---
 (<span style="text-decoration: underline;">Presented at "Rencontres doctorales archéologiques de l’EEPB Bibracte", Centre archéologique européen du Mont Beuvray, 28 - 30 avril 2015</span>)
 
