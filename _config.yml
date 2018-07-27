@@ -21,7 +21,8 @@ permalink: /:year/:title/
 #collections: NOT WORKING : TODO COLLECTIONS
   #: _documents
    # permalink: /documents/:path/
-
+plugins:
+  - jekyll-redirect-from
 
 kramdown:
   toc_levels: 1..2
