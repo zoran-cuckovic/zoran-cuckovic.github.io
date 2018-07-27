@@ -6,13 +6,13 @@
 
 
   
-- title: "Landscape analysis"
-  url: 
+- title: "QGIS Visibility analysis"
+  url: http://zoran-cuckovic.github.io/QGIS-visibility-analysis/
   excerpt:
   image:
-  children:
-    - ch_title: "&nbsp;  QGIS Visibility analysis"
-      ch_url: /landscape-analysis/visibility/ 
+  #children:
+  #  - ch_title: "&nbsp;  QGIS Visibility analysis"
+   #   ch_url: /landscape-analysis/visibility/ 
     #- ch_title: "&nbsp; QGIS Topographic networks"
      # ch_url: /landscape-analysis/topographic-networks/
   
