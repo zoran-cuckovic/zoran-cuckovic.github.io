@@ -32,7 +32,12 @@
 - title: "Stuff"
   url: /scans/
   excerpt:
-  image:	  
+  image:	 
+  
+- title: "Blog"
+  url: https://landscapearchaeology.org/
+  excerpt:
+  image:
  
 - title: "About"
   url: /about/
