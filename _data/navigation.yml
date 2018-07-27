@@ -13,8 +13,8 @@
   children:
     - ch_title: "&nbsp;  QGIS Visibility analysis"
       ch_url: /landscape-analysis/visibility/ 
-    - ch_title: "&nbsp; QGIS Topographic networks"
-      ch_url: /landscape-analysis/topographic-networks/
+    #- ch_title: "&nbsp; QGIS Topographic networks"
+     # ch_url: /landscape-analysis/topographic-networks/
   
 
 # - title: "Lef/Right"
