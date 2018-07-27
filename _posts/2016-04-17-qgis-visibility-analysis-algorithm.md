@@ -7,7 +7,7 @@ author: zoran
 comments: true
 categories: left
 tags: [qgis, qgis-visibility]
-published: false
+
 ---
 <strong>Current plugin version: 0.5</strong>
 

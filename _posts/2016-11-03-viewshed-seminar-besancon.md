@@ -14,7 +14,7 @@ tags: [gis]
 
 image:
   teaser: /images/2016/11/seminairesCE.jpg
-published: false
+
 ---
 
 <div class="container1">

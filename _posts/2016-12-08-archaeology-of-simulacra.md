@@ -15,7 +15,6 @@ image:
   teaser: /images/2016/12/Chichibu-museum-2.jpg
   thumb: null
 
-published: false
 ---
 
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)

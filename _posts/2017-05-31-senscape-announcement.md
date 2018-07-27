@@ -10,7 +10,7 @@ tags:
   - gis
 image:
   teaser: /images/2016/07/cumulative_raster.jpg
-published: false
+
 ---
   
 Viewshed analysis plugin for QGIS has been evolving (slowly) and eventually acquired a new habitat: the Processing toolbox. It can now be used in custom models and scripts similar to other Processing providers (such as SAGA  or GRASS). The transformation was not a simple one and the whole thing is in the experimental phase, as of writing. The title [Senscape](/senscape/) may seem too broad - what about senses other than vision? Well, these modules are in their embryonic stage, but they should find their place somewhere, once hatched. (I would be more than glad to collaborate with people developing algos for sound modelling, just leave me a message on the About page.)

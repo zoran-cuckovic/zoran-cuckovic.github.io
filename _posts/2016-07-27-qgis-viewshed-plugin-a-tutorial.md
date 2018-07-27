@@ -8,7 +8,7 @@ categories: left
 tags: [qgis-visibility, gis]
 image:
   teaser: /images/2016/07/cumulative_raster.jpg
-published: false
+
 ---
 I've had a remark recently that some kind of tutorial would be welcome for the visibility plugin. So here it goes…
 
