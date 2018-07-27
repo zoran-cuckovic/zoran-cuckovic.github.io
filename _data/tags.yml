@@ -14,15 +14,3 @@ qgis:
   text:
   url: /tags/qgis/
   
-qgis-visibility:
-  name: "QGIS visibility analysis plugin"
-  text:
-  url: /landscape-analysis/visibility/
-
-qgis-topography:  
-  name: "QGIS topograhic networks plugin"
-  url: /landscape-analysis/topographic-networks/
-
-gis:
-  name: GIS
-  url: /tags/gis/
