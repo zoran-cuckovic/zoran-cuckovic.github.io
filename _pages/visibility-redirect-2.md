@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Redirect"
-permalink : /landscape-analysis/visibility.html
+permalink : /landscape-analysis/visibility/
 image:
 ---
 
