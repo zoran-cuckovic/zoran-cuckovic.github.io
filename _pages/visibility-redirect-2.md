@@ -7,7 +7,7 @@ image:
 
 <html>
 <head>
-<title>Redirection en HTML</title>
+## Redirection 
  
 <meta http-equiv="refresh" content="2; URL=http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/">
 </head>
