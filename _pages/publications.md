@@ -28,7 +28,7 @@ Journal and conference papers
   
 Čučković, Z. and Čučković L. (2011). [**Rezultati arheoloških istraživanja na Starom gradu Dubovcu 2001. godine / Archaeological excavations at the old castle of Dubovac in 2000.**](/2011/dubovac) _Opuscula archaeologica_ 35: 65–132.  
   
-**For other publications see [academia.edu](http://univ-fcomte.academia.edu/Zoran%C4%8Cu%C4%8Dkovi%C4%87).**  
+**For other publications see [academia.edu](http://univ-fcomte.academia.edu/zoran).**  
 
 Conference/seminar presentations
 --------------------------------
