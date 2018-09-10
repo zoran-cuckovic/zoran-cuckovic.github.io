@@ -14,7 +14,7 @@ Several major categories of ritual places can be considered: natural places used
 
 In the proposed communication several examples of Late Bronze to Early Iron Age ritual places or sanctuaries from the eastern Adriatic area (Croatia, Bosnia and Herzegovina and Slovenia), will be considered. Particular attention will be paid to the temporal dimension, not only in terms of chronology but also in relation to practices of formation and maintenance of collective memory. This perspective enables us to understand better the process of emergence of ritual places (as opposed to a premeditated design). For instance the ritual place at Turska Kosa in Croatia emerged through centuries of ritual activities on a small necropolis. However, such a development was made possible only in accordance with overall spatial strategies which are reflected in the organization of settlements or wider inhabited territories, i.e. certain attachment to fixed places.
 
-<iframe src="https://drive.google.com/file/d/16kpZwUa_yKEgfmoXPNz2ugXFd8mhZoAy/view?usp=sharing" width="800" height="500"></iframe> 
+<iframe src="https://drive.google.com/file/d/16kpZwUa_yKEgfmoXPNz2ugXFd8mhZoAy/preview" width="800" height="500"></iframe> 
 
 ![](/images/2016/06/Topophilia-1.jpg)
 
