@@ -10,7 +10,7 @@ permalink: /publications/
 Journal and conference papers
 -----------------------------
 
-Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
+Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](/2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
 
 Čučković, Z. and Čučković,L. (2017). **[Piling up time: Late Urnfield and Early Iron Age hillforts [of the Kupa region and cultural memory.](/2018/piling-up-time)**. In D. Ložnjak Dizdar and M. Dizdar (eds.) "Late Urnfield Culture between the Eastern Alps and the Danube", Proceedings of the international conference in Zagreb, November 7-8, 2013, 77-86.  (Zbornik Instituta za arheologiju, vol. 9)  
   
