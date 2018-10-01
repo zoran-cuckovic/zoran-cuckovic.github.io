@@ -28,4 +28,4 @@ formation d’un lieu ritualisé sera examiné sur le cas de la nécropole à cr
 sera aussi prêtée à l’impact des stratégies spatiales sur la définition sociale du temps et de la temporalité.
 
 
-<iframe src="https://drive.google.com/file/d/16kpZwUa_yKEgfmoXPNz2ugXFd8mhZoAy/preview" width="800" height="500"></iframe> 
+<iframe src="https://drive.google.com/file/d/16kpZwUa_yKEgfmoXPNz2ugXFd8mhZoAy/preview" width="800" height="1000"></iframe> 
