@@ -36,6 +36,9 @@ Conference/seminar presentations
 --------------------------------
 
 2018  
+Coastlines as storylines: approaching prehistoric Adriatic seascapes from the experiential perspective. Islands in Dialogue (ISLANDIA),
+International Postgraduate Conference in the Prehistory and Protohistory of Mediterranean Islands, Università di Torino, 14th – 16th of November 2018.
+
 Bronze Age hillforts of the Adriatic Sea and the problem of "maritime territory". Entangled Sea conference - The Mediterranean Sea in ancient history and prehistory, University of Manchester, 12-13 June 2018.
 
 The structure of experience: modelling landscape visual quality. Computer Applications in Archaeology conference 2018: Human History and Digital Future, Tübingen, March 19th-23rd 2018.
