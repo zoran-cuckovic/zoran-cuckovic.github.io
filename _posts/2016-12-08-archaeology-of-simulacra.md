@@ -16,7 +16,7 @@ image:
   thumb: null
 
 ---
-<head> <link rel="canonical" href="https://landscapearchaeology.org/2018/archaeology-of-simulacra/></head>
+<head> <link rel="canonical" href="https://landscapearchaeology.org/2018/archaeology-of-simulacra/" />  </head>
   
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)
 *Chichibu museum (photo: www.thisiscolossal.com)*
