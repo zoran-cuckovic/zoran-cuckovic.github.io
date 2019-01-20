@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Publications & presentations
-date: 2016-05-08 20:57
+date: '2016-05-08 20:57'
 author: zoran
 comments: true
 permalink: /publications/
+published: true
 ---
 
 Journal and conference papers
 -----------------------------
+
+Fovet, É. et Čučković, Z. (2018) : **L’espace rural antique autour des établissements littoraux nord-istriens : le cas de la plaine d’Umag.** In Bouet, A. et Petit-Aupert, C. (éds) : *Bibere, ridere, gaudere, studere, hoc est uiuere. Hommages à Francis Tassaux*,  Mémoire 53, Ausonius, Univérsité de Bordeaux. 353-364
 
 Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](/2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
 
@@ -84,4 +87,3 @@ Le paysage culturel de l’Istrie à l’Âge du Bronze (Croatie) : des prospect
   
 2012  
 Sipar kod Umaga. Strukturni pregled kasnoantičke obalne utvrde. \[poster and short presentation\]. Conference “Hrvatska arheologija i Aachenski mir 812. – 2012.”, Zadar (Croatie) 29. 11. – 1. 12. 2012.
-
