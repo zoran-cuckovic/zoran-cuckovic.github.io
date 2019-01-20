@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Historicity and chronological puritanism: <br> are we ever going to acknowledge the historical dimension of human landscapes?"
-date: 2016-06-08
-modified: 2016-18-12
+title: >-
+  Historicity and chronological puritanism: <br> are we ever going to
+  acknowledge the historical dimension of human landscapes?
+date: 2016-06-08T00:00:00.000Z
+modified: 2017-06-12T00:00:00.000Z
 author: zoran
 comments: true
 categories: right
-tags: [landscape, memory]
+tags:
+  - landscape
+  - memory
 image:
- teaser: /images/2016/06/volos-axe.png
-
+  teaser: /images/2016/06/volos-axe.png
+published: true
 ---
+<head> <link rel="canonical" href="https://landscapearchaeology.org/2019/historicity-and-chronological-puritanism" />  </head>
 
 If anything, archaeologists are much annoyed by messed up chronologies. There are always some "intrusive finds", "residual artefacts" or "stray objects" that need to be sorted out and removed from the analysis. Archaeological layers almost invariably include small quantities of objects from previous periods that came there either accidentally, for instance when people would dig pits or till the soil, or as "collateral damage" of archaeological excavation and post-excavation work. It is one of archaeologist's fundamental tasks to clear up this mess and to sort out associations of finds and other excavated features (pits, walls, floors etc.) that are broadly contemporary. What we all dream of are neat sequences of archaeological contexts that would line up on temporal scale one after another: settlement phases clearly separated by layers of total destruction, graveyards developing concentrically from the oldest interments in the centre to the most recent on the outer fringe and, more generally, historical periods characterised by exclusive, easily distinguishable types of objects.
 
@@ -55,4 +60,3 @@ S. Chevrier in collaboration with C. Fossurier, D. Lalaï and J. Wiethold (2014)
 
 Ch. Faraone 2014. Inscribed Greek Thunderstones as House- and Body-Amulets in Roman 
 Imperial Times, *Kernos* 27/2014, 257-284. Available online since October 2016 as [http://kernos.revues.org/2283](http://kernos.revues.org/2283)
-
