@@ -24,6 +24,12 @@
       # ch_url: /left/ 
     # - ch_title: "Right"
       # ch_url: /right/  
+ 
+- title: "Bookshelf"
+  url: https://landscapearchaeology.org/books/
+  excerpt:
+  image: 
+  
 - title: "Publications"
   url: /publications/
   excerpt:
