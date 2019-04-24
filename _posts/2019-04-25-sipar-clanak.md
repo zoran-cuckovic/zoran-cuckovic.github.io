@@ -31,9 +31,10 @@ Poznato je i nešto nalaza iz prapovijesnog razdoblja: Benedetto Lonza donosi lo
 Spomenimo još i zanimljiv nalaz lukobrana i malje četvrtaste platforme u siparskom pristaništu koja je, prema istraživaču, mogla služiti za signalizaciju paljenjem vatre (BRUSIĆ 2009, 251). Pronađene strukture svakako potvrđuju pristanišnu uporabu Sipra, no njihov odnos s naseljem ostaje nejasan kako kronološki, tako i funkcionalno.
 
 ![](/images/2019/2_xix_st.jpg)
+
 ![](/images/2019/2_sipar_zracna.jpg)
 
-*Sl. 2 Sipar krajem 19. st (pogled sa sjeverozapada na ulaznu kulu) i u vrijeme istraživanja (lijevo: BURŠIĆ-MATIJAŠIĆ 2007, 80, snimak balonom desno: R. Urankar i J. Krajšek).*
+*Sl. 2 Sipar krajem 19. st (pogled sa sjeverozapada na ulaznu kulu) i u vrijeme istraživanja (gore: BURŠIĆ-MATIJAŠIĆ 2007, 80; dolje: snimak balonom, R. Urankar i J. Krajšek).*
 
 Arheološko istraživanje koje donosimo je organizirano u studenome i prosincu 2008. godine kao sustavni površinski i strukturni pregled, tj. kao prikupljanje nalaza u mreži kvadranata 5 x 5 metara te dokumentiranje na površini vidljivih arheoloških struktura. Međutim, prva metoda je napuštena nakon prekrivanja zapadnog dijela Sipra s obzirom na utjecaj prirodnih elemenata na raspored površinskog materijala na ostalim, moru izloženijim dijelovima nalazišta. Strukturni pregled se, naprotiv, pokazao kao uspješna metoda, iako razmjerno zahtjevna s obzirom na interpretaciju složenih odnosa na terenu. Pokušali smo dokumentirati sve tragove ljudske djelatnosti; ne samo zidanu gradnju već i utore u stijeni, mjestimične tragove žbuke te linijske obrasce u rasporedu površinskog materijala kao moguće indikatore iščezlih zidanih struktura. Za obje metode istraživanja smo se služili zračnim snimkom nalazišta izrađenim uz pomoć helijskog balona (URANKAR, KRAJŠEK 2002), a strukture su također fotografirane u tlocrtu te pozicionirane uz pomoć totalne stanice (tahimetra), uz izradu opisne dokumentacije.
 
