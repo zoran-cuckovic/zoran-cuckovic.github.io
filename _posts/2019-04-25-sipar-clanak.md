@@ -22,8 +22,7 @@ Prapovijesno, antičko i ranosrednjovjekovno nalazište Sipar, smješteno na sli
 
 Sipar je naveden u Kozmografiji Anonimnog Ravenjanina uz ostale priobalne istarske gradove kao Sapparis/Sipparis (Sl. 1). Ti bi podaci datirali iz 6. ili 7. stoljeća (MATIJAŠIĆ 2001). Čini se pouzdanim povezati današnji toponim arheološkog nalazišta s kasnoantičkim, iako nepobitan dokaz još uvijek nedostaje (BOSIO 1974, 54; KRIŽMAN 1997, 366, 369). Iz povijesnih izvora je poznato razaranje naselja 879. godine prilikom pohoda kneza Domagoja na istarsku obalu, a sudeći prema odsustvu značajnijih nalaza iz razdoblja nakon tog datuma čini se da je intenzitet uporabe Sipra značajno opao nedugo poslije tog događaja (MARUŠIĆ 1975, MATIJAŠIĆ 2005). 
 
-/images/2019/1_pregledna_karta.jpg
-
+![](/images/2019/1_pregledna_karta.jpg)
 *Sl. 1 Istarski gradovi spomenuti u Kozmografiji Anonima Ravenjanina.*
 
 Nalazište je dijelom istraženo u dvije arheološke kampanje 1964. i 1965. godine pod vodstvom Štefana Mlakara i Branka Marušića, no objavljen je samo manji broj predmeta iz kasnoantičkog i ranosrednjovjekovnog razdoblja (MARUŠIĆ 1975, 338-340; 1995, 66-68)1. Istraživanja su iznijela na vidjelo tri faze naseljavanja. Prva, koja nije podrobnije opisana, se najvjerojatnije odnosi na razdoblje 1. i 2. stoljeća koje prepoznajemo po općim karakteristikama površinskih nalaza. Druga faza bi odgovarala rasponu od druge polovice 2. do kraja 4. stoljeća. Jedino je posljednja, kasnoantička i ranosrednjovjekovna faza objavljena s nešto više detalja. U to je razdoblje datirana većina vidljivih arhitektonskih ostataka, uključujući masivne fortifikacije, raster manjih prostorija unutar naselja te višebrodna građevina s kontraforima protumačena kao mogući horreum. Također je istaknuta uporaba antičkih spolija pri izgradnji. Najmlađi pronađeni nalaz je emajlirana fibula s motivom pantere koja je određena u treći stupanj karantansko-ketlaške grupe (od sredine 9. do sredine 10. st) (MARUŠIĆ 1975, 340; MATIJAŠIĆ 2005).
@@ -32,15 +31,15 @@ Poznato je i nešto nalaza iz prapovijesnog razdoblja: Benedetto Lonza donosi lo
 
 Spomenimo još i zanimljiv nalaz lukobrana i malje četvrtaste platforme u siparskom pristaništu koja je, prema istraživaču, mogla služiti za signalizaciju paljenjem vatre (BRUSIĆ 2009, 251). Pronađene strukture svakako potvrđuju pristanišnu uporabu Sipra, no njihov odnos s naseljem ostaje nejasan kako kronološki, tako i funkcionalno.
 
-/images/2019/2_xix_st.jpg
-/images/2019/2_sipar_zracna.jpg
+![](/images/2019/2_xix_st.jpg)
+![](/images/2019/2_sipar_zracna.jpg)
 *Sl. 2 Sipar krajem 19. st (pogled sa sjeverozapada na ulaznu kulu) i u vrijeme istraživanja (lijevo: BURŠIĆ-MATIJAŠIĆ 2007, 80, snimak balonom desno: R. Urankar i J. Krajšek).*
 
 Arheološko istraživanje koje donosimo je organizirano u studenome i prosincu 2008. godine kao sustavni površinski i strukturni pregled, tj. kao prikupljanje nalaza u mreži kvadranata 5 x 5 metara te dokumentiranje na površini vidljivih arheoloških struktura. Međutim, prva metoda je napuštena nakon prekrivanja zapadnog dijela Sipra s obzirom na utjecaj prirodnih elemenata na raspored površinskog materijala na ostalim, moru izloženijim dijelovima nalazišta. Strukturni pregled se, naprotiv, pokazao kao uspješna metoda, iako razmjerno zahtjevna s obzirom na interpretaciju složenih odnosa na terenu. Pokušali smo dokumentirati sve tragove ljudske djelatnosti; ne samo zidanu gradnju već i utore u stijeni, mjestimične tragove žbuke te linijske obrasce u rasporedu površinskog materijala kao moguće indikatore iščezlih zidanih struktura. Za obje metode istraživanja smo se služili zračnim snimkom nalazišta izrađenim uz pomoć helijskog balona (URANKAR, KRAJŠEK 2002), a strukture su također fotografirane u tlocrtu te pozicionirane uz pomoć totalne stanice (tahimetra), uz izradu opisne dokumentacije.
 
 Ishod sustavnog prikupljanja površinskog materijala je prikazan na Sl. 3. Naglasimo da nije izvršena podrobna analiza prikupljenog materijala pa raspolažemo samo s vrlo grubim kronološkim odrednicama. Naročit problem predstavljaju razdoblja željeznog doba i ranog srednjeg vijeka koja nismo u stanju sa sigurnošću izdvojiti iz prikupljenog skupa nalaza uslijed izostanka karakterističnih  ulomaka, iako je naseljavanje nalazišta u oba razdoblja odranije poznato (supra). Također valja istaknuti da je zatečeni površinski materijal u prilično lošem stanju; većina je ulomaka pretrpila određen stupanj abrazije i nagrizanja djelovanjem soli i atmosferilija, a uz to zanimljivije komade nerijetko prikupljaju turisti budući da je Sipar danas u neposrednoj blizini turističkog kompleksa. 
 
-/images/2019/3_kvadranti.jpg
+![](/images/2019/3_kvadranti.jpg)
 Sl. 3. Ishod prikupljanja površinskih nalaza u mreži kvadranata 5x5 m (isključivo lončarija te željezni predmeti, autor).
 
 Prapovijesno razdoblje je posvjedočeno s nekoliko fragmenata karakteristične fakture s primjesama drobljene keramike ili bez uočljivih primjesa (Sl. 4: 4). Međutim, ne raspolažemo s dovoljnim brojem dijagnostičkih ulomaka za pouzdanije definiranje jedne prapovijesne faze naseljavanja. Zanimljiv je nalaz ulomka dna grube kuhinjske posude s narebrenim ukrasom koji se okvirno može datirati u republikansko razdoblje (Sl. 4: 3) . Paralelu pronalazimo u rimskom materijalu iz Sermina koji uglavnom datira u 2. st. pr. Kr. i prvu polovicu 1. st pr. Kr. (HORVAT 1997, 117,  T. 14: 11; 32: 1). 
@@ -49,19 +48,19 @@ Značajan broj nalaza se može datirati u antičko razdoblje (1. st. pr. Kr. - 4
 
 Prilikom kartiranja distribucije nalaza na vidjelo izlazi koncentracija željeznih predmeta na sjevernom dijelu nalazišta (Sl. 3). Slabo izraženo grupiranje nalaza datiranih u kasnu antiku i srednji vijek na tome mjestu moglo bi biti indikator za dataciju željeznog materijala, no to je tek pretpostavka koju valja provjeriti detaljnijim istraživanjem. 
 
-/images/2019/4_keramika.jpg
+![](/images/2019/4_keramika.jpg)
 Sl. 4 Izbor ulomaka lončarije (autor).
 
 Prilikom interpretacije rezultata strukturnog pregleda oslonili smo se ne samo na prostorne i (rijetke) stratigrafske odnose već i na tehniku gradnje. Većina površinski vidljivih struktura se prema karakteristikama uporabljenog građevnog materijala može podijeliti u dvije osnovne skupine. Starija gradnja, okvirno opredjeljena u antičko razdoblje (1.- 4. st.) je prepoznatljiva po uporabi vapnenačkih blokova trokutastog oblika i oštrog loma te svjetlosivoj do žutoj žbuki s primjesama finijeg pijeska i/ili drobljene keramike. Veći dio arhitektonskih ostataka je, međutim, opredjeljen u kasnoantičko razdoblje (5.-7. st.). Karakteristična je obilnija uporaba žbuke crvenkaste boje, često s primjesama krupnijeg šljunka i zdrobljene keramike. Kamen je češće prizmatičnog oblika, a lom na rubovima je slabije izražen. Kvalitetnije izrađeni zidovi su karakteristični po uporabi plosnatog vapnenca ujednačene debljine. 
 
 Naglasimo, međutim, da je uslijed erozije terena većina dokumentiranih struktura očuvana samo u temeljnoj sekciji. Često je prisutan tek prvi red kamena, što se ne može izravno usporediti sa strukturama koje su očuvane u elevaciji. Dodatan je problem srednjovjekovna faza koja nije prepoznata u tehnici gradnje površinskih struktura. To može biti dijelom posljedica kontinuiteta uporabe kasnoantičke gradnje, bilo u integritetu ili u zoni temeljenja novih struktura. Prapovijesne strukture nisu identificirane. 
 
-/images/2019/5_tlocrt.jpg
+![](/images/2019/5_tlocrt.jpg)
 Sl. 5 Tloris nalazišta (autor).
  
 U stariju, antičku građevnu fazu opredjeljujemo veliku višebrodnu građevinu sa stubovima na prevlaci unutar nalazišta (Sl. 5: 1) te dva u stijenu uklesana bazena (Sl. 5: 2). Velika građevina je ranije protumačena kao horreum te atribuirana kasnoantičkom utvrđenju (MARUŠIĆ 1975, 338). Valja primjetiti, međutim, da su ojačanja zidova smještena s unutarnje strane građevine, a ne s vanjske kao što je najčešće slučaj (usp. MATIJAŠIĆ 1998, 270). Građevina je također razmjerno široka (najmanje desetak metara sudeći po dokumentiranim ostacima), debljine zidova 50 do 60 cm, te bi po tim karakteristikama više odgovarala skladišnim strukturama bazilikalnog tipa, kakve su zabilježene u Rimu kod Roča (datirana u 5.- 6. st.), te u Sorni kod Poreča (MATIJAŠIĆ 1998, 283; 281). Dataciju siparskog skladišta u antičko razdoblje indicira i stratigrafski položaj: na istočnom dijelu je preslojeno kasnoantičkim zidom, a na zapadnom vrlo grubom podnicom, moguće slične datacije (Sl. 6). 
 
-/images/2019/6_stub.jpg
+![](/images/2019/6_stub.jpg)
 Sl. 6 Preslojavanje antičke građevine sa stubovima grubom podnicom, moguće kasnoantičke datacije (autor).
 
 Dva bazena usječena u živu stijenu na sjevernom rubu nalazišta su izvorno bila obložena  zidanom gradnjom koja je još uvijek mjestimice vidljiva na njihovim pobočjima iako su danas uglavnom zapunjeni sedimentom. Datirani su antičko razdoblje na temelju prisustva karakteristične svijetlo crvene žbuke s većom količinom drobljene keramike u zidanim oblogama. Zapadna piscina je imala odvodni kanalić grubo prilagođen pukotini u živoj stijeni. Izvorna namjena tih struktura nije nam jasna. Na Brijunima su piscine interpretirane kao dio radionice za bojanje tekstila (BEGOVIĆ-DVORŽAK, DVORŽAK-SCHRUNK 2005), dok su slične strukture u Červar Portu nedavno protumačene kao dio sklopa za preradu ribe, odnosno proizvodnju ribljeg umaka garum (BLANC-BIJON et al. 2012, 105-106). 
