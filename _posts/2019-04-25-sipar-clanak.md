@@ -1,5 +1,12 @@
 ---
+layout: post
+title: "Površinski pregled arheološkog lokaliteta Sipar kod Umaga" 
+date: 2019-04-25 
+author: zoran
+categories: right
+tags:
 ---
+
 Autor: Zoran Čučković
 
 ## Površinski pregled arheološkog lokaliteta Sipar kod Umaga
