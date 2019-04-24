@@ -9,8 +9,6 @@ tags:
 
 Autor: Zoran Čučković
 
-## Površinski pregled arheološkog lokaliteta Sipar kod Umaga
-
 (Napomena: ovaj rad je pripremljen za zbornik simpozija ["Hrvatska arheologija i Aachenski mir, 812.-2012."](http://www.unizd.hr/Portals/0/znanstveni_skupovi/Hrvatska%20arheologija%20i%20Aachenski%20mir%20-%20program%20i%20sazetci%20izlaganja.pdf), održan 2012. godine u Zadru. Zbornik nije objavljen, a nova istraživanja što ih na Sipru provodi Branka Milošević su u međuvremenu iznjedrila mnoštvo novih podataka. Članak je "zastario" za znastveno objavljivanje...) 
 
 *Sažetak: U radu se donose rezultati površinskog pregleda kasnoantičkog kaštela Sipar kod Umaga. Razlučene su dvije osnovne faze naselja okvirno datirane u antičko i kasnoantičko razdoblje. Starijoj fazi bi pripadale strukture jedne višebrodne građevine te dva u stijenu usječena bazena, a mlađoj većina ostalih površinski vidljivih ostataka: masivna fortifikacija i raster manjih građevina unutar naselja. Ta dva razdoblja prevladavaju i u prikupljenom površinskom materijalu.*
