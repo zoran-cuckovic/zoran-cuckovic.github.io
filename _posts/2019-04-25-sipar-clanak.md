@@ -23,6 +23,7 @@ Prapovijesno, antičko i ranosrednjovjekovno nalazište Sipar, smješteno na sli
 Sipar je naveden u Kozmografiji Anonimnog Ravenjanina uz ostale priobalne istarske gradove kao Sapparis/Sipparis (Sl. 1). Ti bi podaci datirali iz 6. ili 7. stoljeća (MATIJAŠIĆ 2001). Čini se pouzdanim povezati današnji toponim arheološkog nalazišta s kasnoantičkim, iako nepobitan dokaz još uvijek nedostaje (BOSIO 1974, 54; KRIŽMAN 1997, 366, 369). Iz povijesnih izvora je poznato razaranje naselja 879. godine prilikom pohoda kneza Domagoja na istarsku obalu, a sudeći prema odsustvu značajnijih nalaza iz razdoblja nakon tog datuma čini se da je intenzitet uporabe Sipra značajno opao nedugo poslije tog događaja (MARUŠIĆ 1975, MATIJAŠIĆ 2005). 
 
 /images/2019/1_pregledna_karta.jpg
+
 *Sl. 1 Istarski gradovi spomenuti u Kozmografiji Anonima Ravenjanina.*
 
 Nalazište je dijelom istraženo u dvije arheološke kampanje 1964. i 1965. godine pod vodstvom Štefana Mlakara i Branka Marušića, no objavljen je samo manji broj predmeta iz kasnoantičkog i ranosrednjovjekovnog razdoblja (MARUŠIĆ 1975, 338-340; 1995, 66-68)1. Istraživanja su iznijela na vidjelo tri faze naseljavanja. Prva, koja nije podrobnije opisana, se najvjerojatnije odnosi na razdoblje 1. i 2. stoljeća koje prepoznajemo po općim karakteristikama površinskih nalaza. Druga faza bi odgovarala rasponu od druge polovice 2. do kraja 4. stoljeća. Jedino je posljednja, kasnoantička i ranosrednjovjekovna faza objavljena s nešto više detalja. U to je razdoblje datirana većina vidljivih arhitektonskih ostataka, uključujući masivne fortifikacije, raster manjih prostorija unutar naselja te višebrodna građevina s kontraforima protumačena kao mogući horreum. Također je istaknuta uporaba antičkih spolija pri izgradnji. Najmlađi pronađeni nalaz je emajlirana fibula s motivom pantere koja je određena u treći stupanj karantansko-ketlaške grupe (od sredine 9. do sredine 10. st) (MARUŠIĆ 1975, 340; MATIJAŠIĆ 2005).
@@ -83,7 +84,7 @@ Kasnoantička je faza svakako najzastupljenija među površinski vidljivim struk
 
 Srednjovjekovna faza nalazišta nije jasno razlučena niti u prikupljnom površinskom materijalu, niti u karakteristikama zidanih struktura. Lončarsku produkciju tog razdoblja nije jednostavno razlučiti bez detaljne analize, dok je gradnja vjerojatno u dobroj mjeri koristila postojeće kasnoantičke strukture. Kako bilo, pouzdani nalazi iz razdoblja nakon 9. ili 10. stoljeća, nakon destrukcije zabilježene u povijesnim izvorima, nisu dokumentirani. To ne mora implicirati napuštanje naselja, ali svakako upućuje na određen gubitak u statusu, povezan s razvojem obližnjeg Umaga u manje lokalno središte.
 
-Literatura 
+### Literatura 
 
 BEGOVIĆ-DVORŽAK, DVORŽAK-SCHRUNK 2005 – Vlasta BEGOVIĆ-DVORŽAK, Ivančica DVORŽAK-SCHRUNK, Fullonica u uvali Verige na Brijunima [Fullonica in Verige Bay on the Brijuni Islands], Prilozi Instituta za arheolologiju 22, Zagreb 2005, 127-140. 
 
