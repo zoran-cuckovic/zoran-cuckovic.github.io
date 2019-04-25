@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Površinski pregled arheološkog lokaliteta Sipar kod Umaga" 
-date: 2019-04-25 
+title: Površinski pregled arheološkog lokaliteta Sipar kod Umaga
+date: 2019-04-25T00:00:00.000Z
 author: zoran
 categories: right
-tags:
+tags: null
+published: true
 ---
 
 Autor: Zoran Čučković
@@ -44,7 +45,7 @@ Ishod sustavnog prikupljanja površinskog materijala je prikazan na Sl. 3. Nagla
 
 Sl. 3. Ishod prikupljanja površinskih nalaza u mreži kvadranata 5x5 m (isključivo lončarija te željezni predmeti, autor).
 
-Prapovijesno razdoblje je posvjedočeno s nekoliko fragmenata karakteristične fakture s primjesama drobljene keramike ili bez uočljivih primjesa (Sl. 4: 4). Međutim, ne raspolažemo s dovoljnim brojem dijagnostičkih ulomaka za pouzdanije definiranje jedne prapovijesne faze naseljavanja. Zanimljiv je nalaz ulomka dna grube kuhinjske posude s narebrenim ukrasom koji se okvirno može datirati u republikansko razdoblje (Sl. 4: 3) . Paralelu pronalazimo u rimskom materijalu iz Sermina koji uglavnom datira u 2. st. pr. Kr. i prvu polovicu 1. st pr. Kr. (HORVAT 1997, 117,  T. 14: 11; 32: 1). 
+Prapovijesno razdoblje je posvjedočeno s nekoliko fragmenata karakteristične fakture s primjesama drobljene keramike ili bez uočljivih primjesa (Sl. 4: 4). Međutim, ne raspolažemo s dovoljnim brojem dijagnostičkih ulomaka za pouzdanije definiranje jedne prapovijesne faze naseljavanja. Zanimljiv je nalaz ulomka dna grube kuhinjske posude s narebrenim ukrasom koji se okvirno može datirati u republikansko razdoblje (Sl. 4: 3, zahvaljujem Kristini Mihovilić na pomoći u opredjeljivanju ulomka). Paralelu pronalazimo u rimskom materijalu iz Sermina koji uglavnom datira u 2. st. pr. Kr. i prvu polovicu 1. st pr. Kr. (HORVAT 1997, 117,  T. 14: 11; 32: 1). 
 
 Značajan broj nalaza se može datirati u antičko razdoblje (1. st. pr. Kr. - 4. st.). Riječ je o tipičnim ulomcima amfora i obične lončarije, te o uobičajenom keramičkom građevnom materijalu (Sl. 4: 1, 5). Nadalje su prisutni ulomci karakterističnih narebrenih amfora koje su tipične za kasnoantičko razdoblje (Sl. 4: 2;), uz opasku da se takvo ukrašavanje nastavlja i dalje kroz srednji vijek (BRUSIĆ 2010). Ranosrednjovjekovno razdoblje nismo u stanju izdvojiti sa sigurnošću zbog podudaranja keramičkih faktura s ranijim razdobljima te izostanka dijagnostičkih nalaza. 
 
@@ -124,6 +125,4 @@ MIHOVILIĆ 1995 – Kristina MIHOVILIĆ, Škojić (Funtana) i tragovi prapovijes
 
 SAKARA-SUČEVIĆ 2004 – Maša SAKARA-SUČEVIĆ, Kaštelir. Prazgodovinska naselbina pri Novi Vasi - Brtonigla. Univerza na Primorskem, Znanstveno-raziskovalno središče, Inštitut za dediščino Sredozemlja , Annales Mediterranea. Koper 2004.
 
-URANKAR, KRAJŠEK 2002 – Rafko URANKAR, Jure KRAJŠEK, Uporaba helijevega balona pri arheoloških vertikalnih posnetkih, Arheo 22, Lubljana 2002, 67-75. 
- 
-
+URANKAR, KRAJŠEK 2002 – Rafko URANKAR, Jure KRAJŠEK, Uporaba helijevega balona pri arheoloških vertikalnih posnetkih, Arheo 22, Lubljana 2002, 67-75.
