@@ -10,6 +10,11 @@ image:
   teaser: /images/2016/07/cumulative_raster.jpg
 
 ---
+
+**Important:** This tutorial was made for QGIS 2, which is deprecated. For a turial made for QGIS 3, please go to [https://landscapearchaeology.org/2020/viewshed-tutorial/](https://landscapearchaeology.org/2020/viewshed-tutorial/).
+
+***
+
 I've had a remark recently that some kind of tutorial would be welcome for the visibility plugin. So here it goes…
 
 The data which will be used can be downloaded from the plugin's GitHub repo (link below). It comprises a DEM extracted from publicly available SRTM data (90 m resolution) and two sets of points (let's call them A and B) which mostly correspond to archaeological sites I'm working on. The area in question is Istria (Croatia and Slovenia) and the projection is MGI Balkans 5 (EPSG : 31275).
