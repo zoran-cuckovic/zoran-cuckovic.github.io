@@ -10,6 +10,8 @@ image:
   teaser: /images/2016/07/cumulative_raster.jpg
 
 ---
+<link rel=“canonical” href=“https://landscapearchaeology.org/2020/viewshed-tutorial/” />
+
 
 **Important:** This tutorial was made for QGIS 2, which is deprecated. For a tutorial made for QGIS 3, please go to [https://landscapearchaeology.org/2020/viewshed-tutorial/](https://landscapearchaeology.org/2020/viewshed-tutorial/).
 
