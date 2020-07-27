@@ -25,8 +25,8 @@
     # - ch_title: "Right"
       # ch_url: /right/  
  
-- title: "Bookshelf"
-  url: https://landscapearchaeology.org/books/
+- title: LandscapeArchaeology.org
+  url: https://landscapearchaeology.org/
   excerpt:
   image: 
   
@@ -40,8 +40,8 @@
   excerpt:
   image:	 
   
-- title: "Blog"
-  url: https://landscapearchaeology.org/
+- title: "Hcommons.org"
+  url: https://zoran.hcommons.org/
   excerpt:
   image:
  
