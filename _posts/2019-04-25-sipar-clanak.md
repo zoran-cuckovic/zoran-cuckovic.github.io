@@ -11,7 +11,6 @@ published: true
 
 Autor: Zoran Čučković
 
-(Napomena: ovaj rad je pripremljen za zbornik simpozija ["Hrvatska arheologija i Aachenski mir, 812.-2012."](http://www.unizd.hr/Portals/0/znanstveni_skupovi/Hrvatska%20arheologija%20i%20Aachenski%20mir%20-%20program%20i%20sazetci%20izlaganja.pdf), održan 2012. godine u Zadru. Zbornik nije objavljen, a nova istraživanja što ih na Sipru provodi Branka Milošević su u međuvremenu iznjedrila mnoštvo novih podataka. Članak je "zastario" za znastveno objavljivanje...) 
 
 *Sažetak: U radu se donose rezultati površinskog pregleda kasnoantičkog kaštela Sipar kod Umaga. Razlučene su dvije osnovne faze naselja okvirno datirane u antičko i kasnoantičko razdoblje. Starijoj fazi bi pripadale strukture jedne višebrodne građevine te dva u stijenu usječena bazena, a mlađoj većina ostalih površinski vidljivih ostataka: masivna fortifikacija i raster manjih građevina unutar naselja. Ta dva razdoblja prevladavaju i u prikupljenom površinskom materijalu.*
 
@@ -89,6 +88,11 @@ Na temelju zabilježenih stratigrafskih odnosa te razlikovanja tehnika gradnje p
 Kasnoantička je faza svakako najzastupljenija među površinski vidljivim strukturama. Dokumentirani su tragovi urbanog rastera na rubnim dijelovima kasnoantičkog naselja kao i manji fragment obrambenog plašta. Također je predložena hipotetska rekonstrukcija oboda naselja na kojem je za očekivati nastavak bedema.  
 
 Srednjovjekovna faza nalazišta nije jasno razlučena niti u prikupljnom površinskom materijalu, niti u karakteristikama zidanih struktura. Lončarsku produkciju tog razdoblja nije jednostavno razlučiti bez detaljne analize, dok je gradnja vjerojatno u dobroj mjeri koristila postojeće kasnoantičke strukture. Kako bilo, pouzdani nalazi iz razdoblja nakon 9. ili 10. stoljeća, nakon destrukcije zabilježene u povijesnim izvorima, nisu dokumentirani. To ne mora implicirati napuštanje naselja, ali svakako upućuje na određen gubitak u statusu, povezan s razvojem obližnjeg Umaga u manje lokalno središte.
+
+### Napomene: 
+* Ovaj rad je pripremljen za zbornik simpozija ["Hrvatska arheologija i Aachenski mir, 812.-2012."](http://www.unizd.hr/Portals/0/znanstveni_skupovi/Hrvatska%20arheologija%20i%20Aachenski%20mir%20-%20program%20i%20sazetci%20izlaganja.pdf), održan 2012. godine u Zadru. Zbornik nije objavljen, a nova istraživanja što ih na Sipru provodi Branka Milošević su u međuvremenu iznjedrila mnoštvo novih podataka. Članak je "zastario" za znastveno objavljivanje...
+* Srpanj 2020 : sadržaj ovih stranica je premješten na Humanities commons. Za citiranje itd. vidi : [zoran.hcommons.org/2019/sipar-clanak](https://zoran.hcommons.org/2019/sipar-clanak)
+
 
 ### Literatura 
 
