@@ -7,6 +7,7 @@ categories: right
 tags: null
 published: true
 ---
+<head> <link rel="canonical" href="https://zoran.hcommons.org/2019/sipar-clanak" />  </head>
 
 Autor: Zoran Čučković
 
