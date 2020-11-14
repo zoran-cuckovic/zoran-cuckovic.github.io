@@ -16,7 +16,7 @@ image:
   thumb: null
 
 ---
-<head> <link rel="canonical" href="https://zoran.hcommons.org/2016/archaeology-of-simulacra/"  />  </head>
+<head> <link rel="canonical" href="https://fragments.hypotheses.org/2/"  />  </head>
   
 ![Chichibu museum (photo: www.thisiscolossal)](/images/2016/12/Chichibu-museum.jpg)
 *Chichibu museum (photo: www.thisiscolossal.com)*
