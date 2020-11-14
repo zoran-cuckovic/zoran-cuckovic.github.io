@@ -25,11 +25,7 @@
     # - ch_title: "Right"
       # ch_url: /right/  
  
-- title: LandscapeArchaeology.org
-  url: https://landscapearchaeology.org/
-  excerpt:
-  image: 
-  
+
 - title: "Publications"
   url: /publications/
   excerpt:
@@ -40,8 +36,14 @@
   excerpt:
   image:	 
   
-- title: "Hcommons.org"
-  url: https://zoran.hcommons.org/
+- title: LandscapeArchaeology.org
+  url: https://landscapearchaeology.org/
+  excerpt:
+  image: 
+  
+  
+- title: "Hypotheses.org"
+  url: https://fragments.hypotheses.org/
   excerpt:
   image:
  
