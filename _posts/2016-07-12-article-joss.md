@@ -3,6 +3,7 @@ layout: post
 title: " Advanced viewshed analysis: a Quantum GIS plug-in for the analysis of visual landscapes."
 date: 2016-07-12
 author: zoran
+canonical: https://zoran.hcommons.org/2016/article-joss/
 comments: true
 ---
 
