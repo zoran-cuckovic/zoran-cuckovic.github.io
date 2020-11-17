@@ -1,106 +1,46 @@
-# Site wide configuration
+---
+# style inspiration : http://excentris.net/compass/
 
-title: "Aux quatre vents"
-description: "Personal web pages of Zoran Čučković."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
-feed:
-  path: atom.xml
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
 
-# Jekyll configuration 
 
-sass:
-  sass_dir: _sass
-  style: compressed
- 
-#originally =   permalink: /:categories/:title/
-permalink: /:year/:title/
+### content configuration ###
+title:       "Zoran Čučković"
+keywords:    "archaeology, landscape archaeology, gis, qgis, zoran cuckovic"
+description: "Personal pages of Zoran Čučković"
+source_link: "https://github.com/zoran-cuckovic/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:  "UA-76855620-1"
 
-#collections: NOT WORKING : TODO COLLECTIONS
-  #: _documents
-   # permalink: /documents/:path/
-plugins:
-  - jekyll-redirect-from
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  # blue:      '#5998C5'  
+  blue:  '#B4DCE4'
+  #navy 3E78B2   #stronger 
+  dark_blue: '#0B4F6C'
+  green:     '#B5BD89' 
+  # green 2 9bcf2f' bljutava zelena C4E7D4   yellow green C4E7D4
+  purple:    '#681469'        
+  #purple 2 c869bf' 
+  bordeaux: '#8F4244'
+  dark_green: '#4F5D2F'
+  dark_purple: '#3D3B8E'
+  sand: '#F1EED9'
+  sand2:  '#DBCFB0'
+  sand3: '#F2DFD7'
+  orange:    '#EA8C55'
+  turquoise: '#0fbfcf'
+  
 
 kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  auto_ids:  false
 
-
-# Site owner
-owner:
-  name: Zoran Čučković
-  email: cuckovic.zoran@gmail.com
-  twitter: ZCuckovic
-  google:
-    ad-client:
-    ad-slot:
-  bio: some bio in _config.yml
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname: # addad directy to comments.html
-
-#include for jekyll to see (added DOCUMENTS, excluded publications)
-include:
-  - .htaccess  # ?? 
-  - _pages #!!! 
-  - documents
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - ".bat"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
-  - _publications
-
-collections:
-  - publications
-# this is not actually used (EXCLUDED)
-
-prose:
-  rooturl: '_posts'
-
-  media: 'images'
-  ignore:
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      meetups:
-        - name: "meetup"
-          field:
-            element: "hidden"
-            value: "meetup"
-        - name: "categories"
-          field: 
-            element: "hidden"
-            value: "meetup"
-        - name: "permalink"
-          field:
-            element: "text"
-    
-            label: "Background (CSS)"

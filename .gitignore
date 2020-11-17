@@ -1,11 +1,2 @@
-# project
-_site
-images/_site
-.sass-cache
-.vagrant
-*.bat
-
-# general
+_site/
 .DS_Store
-Thumbs.db
-ehthumbs.db
