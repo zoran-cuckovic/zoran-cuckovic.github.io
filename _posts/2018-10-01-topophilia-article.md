@@ -4,6 +4,7 @@ title: "Topophilia and the emergence of prehistoric sanctuaries: an example from
 date: 2018-10-01 
 author: zoran
 categories: right
+canonical: https://zoran.hcommons.org/2018/topophilia-article/
 tags: [memory]
 ---
 Published in: J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. 
