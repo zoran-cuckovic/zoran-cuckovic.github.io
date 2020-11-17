@@ -4,6 +4,7 @@ title: "Exploring intervisibility networks : a case study from Bronze and Iron A
 date: 2015-11-12
 author: zoran
 comments: true
+canonical: https://zoran.hcommons.org/2015/intervisibility-networks/
 categories: right
 ---
 
