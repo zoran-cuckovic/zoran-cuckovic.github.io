@@ -10,8 +10,12 @@
     {% endif %}
     {% include open-graph.html %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-
+   {% raw %}{% if page.canonical %}
+         <link rel="canonical" href="{{ page.canonical }}">
+    {% else %}
+         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    {% endif %}{% endraw %}
+    
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ site.url }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
 
