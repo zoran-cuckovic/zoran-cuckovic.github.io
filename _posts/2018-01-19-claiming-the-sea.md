@@ -4,6 +4,7 @@ title: "Claiming the sea: Bronze Age fortified sites of the north-eastern Adriat
 date: 2017-06-26
 author: zoran
 comments: true
+canonical: https://zoran.hcommons.org/2017/claiming-the-sea/
 categories: right
 ---
 
