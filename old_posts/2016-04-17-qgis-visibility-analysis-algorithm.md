@@ -5,8 +5,7 @@ title: "QGIS visibility analysis algorithm"
 permalink: 2016/qgis-visibility-analysis-algorithm/
 modified: 2016-07-30
 author: zoran
-comments: true
-categories: left
+canonical: https://landscapearchaeology.org/2018/qgis-visibility-analysis-algorithm/
 tags: [qgis, qgis-visibility]
 
 ---
