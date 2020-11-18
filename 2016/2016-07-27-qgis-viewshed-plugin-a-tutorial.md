@@ -12,7 +12,7 @@ image:
 ---
 
 
-**Important:** This tutorial was made for QGIS 2, which is deprecated. For a tutorial made for QGIS 3, please go to [https://landscapearchaeology.org/2020/viewshed-tutorial/](https://landscapearchaeology.org/2020/viewshed-tutorial/).
+**Important:** This tutorial was made for QGIS 2, which is **deprecated**. For a tutorial made for QGIS 3, please go to [https://landscapearchaeology.org/2020/viewshed-tutorial/](https://landscapearchaeology.org/2020/viewshed-tutorial/).
 
 ***
 
