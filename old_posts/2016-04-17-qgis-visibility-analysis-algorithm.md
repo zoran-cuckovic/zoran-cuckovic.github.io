@@ -1,7 +1,8 @@
 ---
 layout: post
 title: QGIS visibility analysis algorithm
-
+# THIS MAKES IT PUBLISHABLE !!
+permalink: https://zoran-cuckovic.from.hr/2016/qgis-visibility-analysis-algorithm/
 modified: 2016-07-30
 author: zoran
 comments: true
