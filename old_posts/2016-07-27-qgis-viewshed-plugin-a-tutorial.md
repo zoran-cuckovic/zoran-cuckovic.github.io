@@ -2,7 +2,7 @@
 layout: post
 title: "QGIS viewshed plugin - a tutorial"
 # this makes it publishable
-permalink: https://www.zoran-cuckovic.from.hr/2016/qgis-viewshed-plugin-a-tutorial/
+permalink: 2016/qgis-viewshed-plugin-a-tutorial/
 date: 2016-07-27 19:50
 author: zoran
 comments: true
