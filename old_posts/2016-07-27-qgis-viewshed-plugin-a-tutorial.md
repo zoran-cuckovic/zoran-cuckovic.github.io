@@ -5,8 +5,7 @@ title: "QGIS viewshed plugin - a tutorial"
 permalink: 2016/qgis-viewshed-plugin-a-tutorial/
 date: 2016-07-27 19:50
 author: zoran
-comments: true
-categories: left
+canonical: https://landscapearchaeology.org/2020/viewshed-tutorial/
 tags: [qgis-visibility, gis]
 image:
   teaser: /images/2016/07/cumulative_raster.jpg
