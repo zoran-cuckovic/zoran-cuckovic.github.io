@@ -9,7 +9,7 @@ canonical: https://landscapearchaeology.org/2018/qgis-visibility-analysis-algori
 tags: [qgis, qgis-visibility]
 
 ---
-[ This page is archived for consistency: see the new version on [LandscapeArchaeology.org](https://landscapearchaeology.org/2018/qgis-visibility-analysis-algorithm/). ]
+**[ This page is archived for consistency: see the new version on [LandscapeArchaeology.org](https://landscapearchaeology.org/2018/qgis-visibility-analysis-algorithm/). ]**
 
 <strong>Current plugin version: 0.5</strong>
 
