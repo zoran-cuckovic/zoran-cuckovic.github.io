@@ -9,6 +9,8 @@ canonical: https://landscapearchaeology.org/2018/qgis-visibility-analysis-algori
 tags: [qgis, qgis-visibility]
 
 ---
+[ This page is archived for consistency: see the new version on [LandscapeArchaeology.org](https://landscapearchaeology.org/2018/qgis-visibility-analysis-algorithm/). ]
+
 <strong>Current plugin version: 0.5</strong>
 
 It took me long time to develop an algorithm for the visibility analysis which would be comparable in terms of speed and quality to those available in other packages. And then some more time to tweak it for the type of analysis the QGIS visibility plugin is intended: higher volume calculation of multiple viewsheds over standard (coarse) elevation models. But here it is - an implementation which is faster than previous ones by a factor of 10 (at least).
