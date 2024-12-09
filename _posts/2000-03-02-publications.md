@@ -7,7 +7,8 @@ icon: img/ico-glasses.png
 
 # Publications
 
-### ... a short selection
+### ... a selection
+Čučković, Z. (2023). **Chapter 15. Visibility Networks.** In T. Brughmans, B. J. Mills, J. Munson, M. A. Peeples (eds.) *The Oxford Handbook of Archaeological Network Research.* Oxford University Press, pp.230-247. [DOI:10.1093/oxfordhb/9780198854265.013.13](https://dx.doi.org/10.1093/oxfordhb/9780198854265.013.13)
 
 Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](https://zoran.hcommons.org/2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
   
