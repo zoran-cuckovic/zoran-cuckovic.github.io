@@ -1,3 +1,6 @@
+---
+title: publications
+---
 # Publications and presentations
 ## Journal and conference papers
 Fovet, É. et Čučković, Z. (2018) : L’espace rural antique autour des établissements littoraux nord-istriens : le cas de la plaine d’Umag. In Bouet, A. et Petit-Aupert, C. (éds) : Bibere, ridere, gaudere, studere, hoc est uiuere. Hommages à Francis Tassaux, Mémoire 53, Ausonius, Univérsité de Bordeaux. 353-364
