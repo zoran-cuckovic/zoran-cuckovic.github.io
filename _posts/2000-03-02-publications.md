@@ -20,5 +20,5 @@ icon: img/ico-glasses.png
   
 ---------------------
 
-A full list of publications can be found on [**Humanities Commons**](https://zoran.hcommons.org/publications/) page or on [**a separate page**](/pages/publications/).  
+A full list of publications can be found on [**Humanities Commons**](https://zoran.hcommons.org/publications/) page or on [**a separate page**](/pages/publications).  
 
