@@ -22,10 +22,27 @@ Fovet, É. et Čučković, Z. (2018) : L’espace rural antique autour des étab
 
 Čučković, Z. and Čučković L. (2011). Rezultati arheoloških istraživanja na Starom gradu Dubovcu 2001. godine / Archaeological excavations at the old castle of Dubovac in 2000. Opuscula archaeologica 35: 65–132.
 
-## Conference/seminar presentations
-2022
+## Invited conferences
+KIEL
 
 Os, débris, monuments : approche archéologique de la mémoire collective. Goûters de PHIER (Laboratoire de Philosophies et Rationalités), Université de Clermont Auvergne, 2 février 2022.
+
+Bronze Age hillforts of the Adriatic Sea and the problem of “maritime territory”. Entangled Sea conference – The Mediterranean Sea in ancient history and prehistory, University of Manchester, 12-13 June 2018.
+
+## Conference/seminar presentations
+2023
+
+Réseaux d’intervisibilité : une approche pour l’étude des rapports sociaux dans le paysage : Journée d’étude « Village IV » Clermont-Ferrand, mardi 21 novembre 2023.
+
+Letterlé F., Čučković Z., Thomson I., Vachon V. - Entre marais et chaîne des Puys : un paysage funéraire spectaculaire à l’âge du Bronze ancien. 14e Rencontre du GAAF. Rencontre autour du Paysage funéraire de la Préhistoire à l’Antiquité. Dijon 12-14 avril 2023
+
+2022
+
+La fabrique des ancêtres et le problème d’habitat groupé à l’âge du Bronze européen : Journée d’étude « Village III », Clermont-Ferrand, mardi 15 novembre 2022.
+
+
+Marquer le temps : cycle de vie des monuments funéraires protohistoriques de l’interfluve Seine-Yonne. Rencontres Nord-Sud de La Rochelle 2022.
+Avec Florent Mouhot Archéoastronomie avec les pieds sur terre : enclos funéraires de l'âge du Bronze au Bassin parisien. Les huitièmes Rencontres doctorales de l’École Européenne de Protohistoire de Bibracte (EEPB), 14 au 16 mars 2022, au Centre archéologique européen de Bibracte (Bourgogne, France).
 
 Cartographie et analyse topographique avec l’extension Terrain Shading de QGIS. Rencontres des Utilisateurs Francophones de QGIS, Clermont-Ferrand, 18-19 janvier 2022.
 
@@ -52,8 +69,6 @@ First steps towards ontological geography: experimenting with topographic networ
 2018
 
 Coastlines as storylines: approaching prehistoric Adriatic seascapes from the experiential perspective. Islands in Dialogue (ISLANDIA), International Postgraduate Conference in the Prehistory and Protohistory of Mediterranean Islands, Università di Torino, 14th – 16th of November 2018.
-
-Bronze Age hillforts of the Adriatic Sea and the problem of “maritime territory”. Entangled Sea conference – The Mediterranean Sea in ancient history and prehistory, University of Manchester, 12-13 June 2018.
 
 The structure of experience: modelling landscape visual quality. Computer Applications in Archaeology conference 2018: Human History and Digital Future, Tübingen, March 19th-23rd 2018.
 
