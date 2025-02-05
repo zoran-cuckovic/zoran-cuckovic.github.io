@@ -23,20 +23,35 @@ Fovet, É. et Čučković, Z. (2018) : L’espace rural antique autour des étab
 Čučković, Z. and Čučković L. (2011). Rezultati arheoloških istraživanja na Starom gradu Dubovcu 2001. godine / Archaeological excavations at the old castle of Dubovac in 2000. Opuscula archaeologica 35: 65–132.
 
 ## Invited conferences
-KIEL
+
+Topographies of remembrance: quantitative approaches to prehistoric barrow landscapes. Biweekly colloquia, ROOTS excellence cluster, University of Kiel, 22nd April 2024.
+
+GIS and prehistoric landscapes: new approaches in visibility and movement modelling. Institute for archaeology, Ljubljana, 17 january 2023. 
 
 Os, débris, monuments : approche archéologique de la mémoire collective. Goûters de PHIER (Laboratoire de Philosophies et Rationalités), Université de Clermont Auvergne, 2 février 2022.
 
 Bronze Age hillforts of the Adriatic Sea and the problem of “maritime territory”. Entangled Sea conference – The Mediterranean Sea in ancient history and prehistory, University of Manchester, 12-13 June 2018.
 
-## Conference/seminar presentations
+## Other conference/seminar presentations
+2024
+
+New approaches to movement analysis: from paths to total mobility fields. Paths & Pathways seminar : Digital modelling in landscape archaeology, Clermont-Ferrand, 18 june 2024. 
+
+Ghislain Bagan et Zoran Čučković - L’espace des vivants à travers le territoire des morts : les exemples du Languedoc occidental et du Castrais. 48e colloque international
+de l’Association Française pour l’Étude de l’Âge du Fer, Rodez (France), 9 au 11 mai 2024.
+
 2023
+
+Introducing the total mobility field: an algorithmic solution for the analysis of prehistoric mobility practices. 11th Scientific Conference Methodology and Archaeometry, Zagreb, 7th and 8th of December 2023.
 
 Réseaux d’intervisibilité : une approche pour l’étude des rapports sociaux dans le paysage : Journée d’étude « Village IV » Clermont-Ferrand, mardi 21 novembre 2023.
 
-Letterlé F., Čučković Z., Thomson I., Vachon V. - Entre marais et chaîne des Puys : un paysage funéraire spectaculaire à l’âge du Bronze ancien. 14e Rencontre du GAAF. Rencontre autour du Paysage funéraire de la Préhistoire à l’Antiquité. Dijon 12-14 avril 2023
+Letterlé F., Čučković Z., Thomson I., Vachon V. - Entre marais et chaîne des Puys : un paysage funéraire spectaculaire à l’âge du Bronze ancien. 14e Rencontre du GAAF. Rencontre autour du Paysage funéraire de la Préhistoire à l’Antiquité. Dijon 12-14 avril 2023.
 
 2022
+
+Digital landscapes: new algorithms for archaeological site detection and mapping on the basis of Lidar data. 10th Scientific Conference Methodology and Archaeometry, Zagreb,
+1st and 2nd of December 2022.
 
 La fabrique des ancêtres et le problème d’habitat groupé à l’âge du Bronze européen : Journée d’étude « Village III », Clermont-Ferrand, mardi 15 novembre 2022.
 
