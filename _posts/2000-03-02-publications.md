@@ -8,9 +8,9 @@ icon: img/ico-glasses.png
 # Publications
 
 ### ... a selection
-Čučković, Z. (2023). **Chapter 15. Visibility Networks.** In T. Brughmans, B. J. Mills, J. Munson, M. A. Peeples (eds.) *The Oxford Handbook of Archaeological Network Research.* Oxford University Press, pp.230-247. [DOI:10.1093/oxfordhb/9780198854265.013.13](https://dx.doi.org/10.1093/oxfordhb/9780198854265.013.13)
+Čučković, Z. (2023). **Landscape Chambers: Towards an Archaeology of the Cognitive Landscape.** *Journal of Archaeological Method and Theory*, 32 (1), pp.20. [DOI:10.1007/s10816-024-09687-0](https://dx.doi.org/10.1007/s10816-024-09687-0)
 
-Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](https://zoran.hcommons.org/2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
+Čučković, Z. (2023). **Chapter 15. Visibility Networks.** In T. Brughmans, B. J. Mills, J. Munson, M. A. Peeples (eds.) *The Oxford Handbook of Archaeological Network Research.* Oxford University Press, pp.230-247. [DOI:10.1093/oxfordhb/9780198854265.013.13](https://dx.doi.org/10.1093/oxfordhb/9780198854265.013.13)
   
 Čučković, Z. (2017). [**Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia).**](https://zoran.hcommons.org/2017/claiming-the-sea) _World Archaeology_ vol 49, issue 4, pp. 526-546. [doi: 10.1080/00438243.2017.1341331](http://dx.doi.org/10.1080/00438243.2017.1341331)  
   
