@@ -8,7 +8,7 @@ icon: img/ico-glasses.png
 # Publications
 
 ### ... a selection
-Čučković, Z. (2023). **Landscape Chambers: Towards an Archaeology of the Cognitive Landscape.** *Journal of Archaeological Method and Theory*, 32 (1), pp.20. [DOI:10.1007/s10816-024-09687-0](https://dx.doi.org/10.1007/s10816-024-09687-0)
+Čučković, Z. (2025). **Landscape Chambers: Towards an Archaeology of the Cognitive Landscape.** *Journal of Archaeological Method and Theory*, 32 (1), pp.20. [DOI:10.1007/s10816-024-09687-0](https://dx.doi.org/10.1007/s10816-024-09687-0)
 
 Čučković, Z. (2023). **Chapter 15. Visibility Networks.** In T. Brughmans, B. J. Mills, J. Munson, M. A. Peeples (eds.) *The Oxford Handbook of Archaeological Network Research.* Oxford University Press, pp.230-247. [DOI:10.1093/oxfordhb/9780198854265.013.13](https://dx.doi.org/10.1093/oxfordhb/9780198854265.013.13)
   
